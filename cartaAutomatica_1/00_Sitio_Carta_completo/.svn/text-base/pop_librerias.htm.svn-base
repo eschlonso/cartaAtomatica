@@ -1,0 +1,1668 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Carta Automatica</title>
+<link href="estilos.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<table width="480" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="right"></td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="20" class="titulos">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="222" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="20" class="titulos"><table width="50%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="7%"><img src="images/flecha2.gif" width="19" height="17" /></td>
+                  <td width="93%"><strong>Librerias adheridas <span class="celeste"></span></strong></td>
+                </tr>
+              </table>              </td>
+          </tr>
+          <tr>
+            <td height="20" align="left" class="gris2"><br />
+              <table width="450"  border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">EDICIONES BAHIA S.A</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+                </tr>
+              <tr>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">LIBRERIA AGENCIA SUR</td>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">Bahia Blanca</td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td width="3%" bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td width="61%" bgcolor="#BFEDF9" class="negroch">LIBRERIA LA PORTE&Ntilde;A S.A.</td>
+                <td width="3%" bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td width="33%" bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">EL TRENCITO</td>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">Bahia Blanca</td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA DEL COLEGIO CENTRO</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">LIBRERIA CRISTIANA DEL SUR</td>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">Bahia Blanca</td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA DON BOSCO</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+                </tr>
+              <tr>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">KIOSCO MARYSOL</td>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">Bahia Blanca</td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#BFEDF9">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LA PAPELERIA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Bahia Blanca</td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">KIKITOS CERRI</td>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">KLAS LIBROS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">TOPIDAY</td>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">Bahia Blanca</td>
+                </tr>
+
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA DEL COLEGIO</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">GRUPO EDITORIAL PATAGONIA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">MARKY</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">ALLIPEN</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">RAYUELA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA AZUCENA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CARTA MAGNA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA MERCURIO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">EDITORIAL NAHUEL</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">CRAYONES</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA MEGA PAPER</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">EL TRENCITO FELIZ</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CASA TIMI</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">UNISHOP</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">POLIRUBRO FRA MI</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">EDICIONES NUEVO MUNDO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Bariloche</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">JUMBO EXPRESS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bariloche</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">ISANELL</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Bariloche</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CASA RAUL<br /></td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bariloche</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">SIGNOS LIBRERIA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Choele Choel</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">ZOE LIBROS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Choele Choel</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">DISE&Ntilde;OS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Choele Choel</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">KIOSCO YOLI</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Choele Choel</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA ACETO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Cipoletti</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">DRUGSTORE</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Cipoletti</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBROCINCO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Cipoletti</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CRAYON</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Cipoletti</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA ROCA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Cipoletti</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">SIDDHARTHA LIBROS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Cipoletti</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA ASTRA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Cipoletti</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA SUR</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Caleta Olivia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA EL ESTUDIANTE</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Caleta Olivia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA CINTIA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Caleta Olivia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA MATICES</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Caleta Olivia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CASA ABE</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">ERBONI LIBROS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LA BOLSA DEL LIBRO</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA CRISTIANA SAN DAVID</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERY</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA PUNTO Y COMA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA LOS COLEGIALES</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">SEHS LIBROS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LOS MUCHACHOS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">KENNEDY VEINTE VEINTE</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">PARTY</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">CASA ESTELLA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">EL ESTANCO </td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">EL QUIJOTE DEL CENTRO </td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LA UNICA </td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">REAL LIBROS </td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">PAPELES NIKE </td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Comodoro Rivadavia</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA MU&Ntilde;OZ DE PAPELES S.A.</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Gral. Roca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA DE LA FE</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Gral. Roca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA PICASSO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Gral. Roca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA CRISTIANA IDENTIDAD</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Gral. Roca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">BUENOS AIRES LIBRERIA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Gral. Roca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA PATAGONIA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Gral. Roca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">QUIMHUE LIBROS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Gral. Roca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA CRISTIANA GENESIS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Gral. Roca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">COLORES</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Gral. Roca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA CRAYONES</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Gral. Roca</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">RAYUELA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">SHOW OFFICE SRL.</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LA NORMAL LIBROS S.H.</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CASA SANTALLA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">CASA VITALE</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">ALFA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">OHAN CESAR AMADO (VTA.DE LIBROS)</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA GAMMA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">JALO LIBRERIAS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">VISUAL 12</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">CLIPS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">MARPA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBROS JURIDICOS DE DANTE R. SCOTTI</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">ESTANT LIBROS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">JALO LIBRERIAS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA INTERNACIONAL</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA NACIONAL</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA AVENIDA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA EXODO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CRAYON</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">CASA SANTALLA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LA BOLSA UNIVERSITARIA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">DE LA CAMPANA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">ASTERISCO</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA SARMIENTO SH</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">SASSONE</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRACOS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA LAS TRES B.B.B</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LAS BARDAS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">PAPIRO</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">MIRO LIBRERIA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA GALERNA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA ABC</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIAS TARQUINI</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">OFICER LIBRERIA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">EL SANTA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA  SANTA  GENOVEVA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">DISTRIBUIDORA OLIVOS S.R.L.</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">CASA SOLARI</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA ALCORTA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA EL QUIJOTE</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA ACUARELA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">PLATERITO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LYSA LIBRERIA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">PAPIRO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">OFICER LIBRERIAS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">A.M.E.N./ LIBRERIA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA SAN JAVIER</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">EL ANTICUARIO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Neuqu&eacute;n </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">N Y S LIBRERIA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Puerto Madryn</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">TIBURON</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Puerto Madryn</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">RECREO LIBROS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Puerto Madryn</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA ABECEDARIO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Puerto Madryn</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA PLAZA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Puerto Madryn </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">EBEN EZER LIBRERIA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Puerto Madryn </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CANDILEJAS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Puerto Madryn </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA CRISTIANA SAN DAVID</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Puerto Madryn </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">PINGUINO DE PAPEL</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Puerto Madryn </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">FOTOCOPIAS ALEM</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Puerto Madryn </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">MULTICOMPRAS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Punta Alta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">TUITTO REGALOS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Punta Alta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA MATILDE</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Punta Alta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">PAQUETERIAS REGALOS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Punta Alta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">MARIA REINA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Punta Alta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">EL MUNDO DE FELIPE </td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Punta Alta </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">POLIRUBRO MANOLITO </td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Punta Alta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">PLASTI-CENT&nbsp; SRL &nbsp;&nbsp;</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Punta Alta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">TEOREMA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Punta Alta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">EL RELOJ SRL</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">R&iacute;o Gallegos</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA CRISTINA ABRAHAN</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">R&iacute;o Gallegos</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">PROSUR SRL</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">R&iacute;o Gallegos</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CAPIPE SRL</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">R&iacute;o Gallegos</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA SAN PABLO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Salta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA SARMIENTO</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Salta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA SAN MARTIN</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Salta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA RAYUELA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Salta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">BELLO EXPRESS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Salta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA SAN FRANCISCO</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Salta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA LERMA SRL</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Salta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">FERIA DEL LIBRO</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Salta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIDER</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Salta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA DEL PROFESIONAL</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Salta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">ABG</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Trelew</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">A Y B</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Trelew</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA MORON</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Trelew </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">FAMILY</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Trelew</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA SAN PABLO S.R.L.</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Tucum&aacute;n</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">COPITEC</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Tucum&aacute;n</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA EL QUIJOTE DE TUCUMAN</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Tucum&aacute;n</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">TODOLANDIA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Tucum&aacute;n</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LIBRERIA EL ABUELO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Tucum&aacute;n</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LA  MEJOR</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Tucum&aacute;n</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">EXPRESS MULKI</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Tucum&aacute;n</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LIBRERIA UNIVERSITARIA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Tucum&aacute;n</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">MARU LIBRERIA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Tucum&aacute;n</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">EDICIONES EMANUEL</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Tucum&aacute;n</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">GRAFICA ALEM<br /></td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Tucum&aacute;n</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">VIREINA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Villa Regina</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">PERAZZOLI  HNOS. LIBRERIA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Villa Regina</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">NAMUNCURA LIBROS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Villa Regina </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">PLAZA BONITA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Villa Regina </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>

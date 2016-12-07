@@ -1,0 +1,229 @@
+.blanco2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	line-height: 10pt;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.blanco {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	line-height: 10pt;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.blanco-1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	line-height: 10pt;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.blanco:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	line-height: 10pt;
+	color: #000066;
+	text-decoration: none;
+	background-color: #cceff9;
+}
+.gris {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	line-height: 7pt;
+	color: #999999;
+	text-decoration: none;
+}
+
+
+.selector {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	line-height: 7pt;
+	color: #666666;
+	text-decoration: none;
+	background-color: #E8F8FC;
+}
+.pesosfondo {
+	background-image: url(images/ima_legales.gif);
+}
+
+.azul {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	line-height: 11pt;
+	color: #003863;
+	text-decoration: none;
+}
+.celeste {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	line-height: 11pt;
+	color: #189AD8;
+	text-decoration: none;
+}
+
+.txt_negro{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	line-height: 11pt;
+	color: #000000;
+	
+}
+
+.negro {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	line-height: 11pt;
+	color: #000000;
+	}
+.negro:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	line-height: 11pt;
+	color: #0472CD;
+	text-decoration: none;
+}
+.negroch {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	line-height: 9pt;
+	color: #000000;
+	text-decoration: none;
+}
+.negro2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	line-height: 11pt;
+	color: #000000;
+	text-decoration: none;
+	font-weight:normal;
+}
+
+.negro2 a{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	line-height: 11pt;
+	color: #000000;
+	text-decoration: none;
+	font-weight:normal;
+}
+
+.negro3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	line-height: 11pt;
+	color: #000000;
+	text-decoration: none;
+	font-weight:normal;
+	font-style:italic;
+}
+
+.rojo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	line-height: 11pt;
+	color: #FF0000;
+	text-decoration: none;
+}
+.gris2 {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	line-height: 9pt;
+	color: #999999;
+	text-decoration: none;
+}
+
+.gris3 {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	line-height: 9pt;
+	color: #999999;
+	text-decoration: none;
+}
+
+.titulos {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	color: #0472CD;
+	text-decoration: none;
+}
+.tit_1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13.5px;
+	font-weight: bold;
+	color: #3F3F3F;
+}
+
+.titulos2 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	line-height: 14pt;
+	color: #0472CD;
+	text-decoration: none;
+}
+.tit_ciudad {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #E2001A;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+.linea_punt {
+	font-size: 9px;
+	color: #E2001A;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+
+
+
+
+.titulosC {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	color: #189AD8;
+	text-decoration: none;
+}
+.titulosnegro {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	color: #FFCC00;
+	text-decoration: none;
+}
+.titciudad {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	line-height: 11pt;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.tabla_descuentos a {font-family: Century Gothic, Verdana; font-size:12px; color:#58585a; text-decoration:none; font-weight: bold }
+.tabla_descuentos a:link {font-family: Century Gothic, Verdana; font-size:12px; color:#58585a; text-decoration:none; font-weight: bold }
+.tabla_descuentos a:visited {font-family: Century Gothic, Verdana; font-size:12px; color:#58585a; text-decoration:none; font-weight: bold }
+.tabla_descuentos a:hover {font-family: Century Gothic, Verdana; font-size:13px; color:#e2001a; font-weight:bold;text-decoration:none; }
+.tabla_descuentos a.active {font-family: Century Gothic, Verdana; font-size:13px; color:#e2001a; font-weight:bold;text-decoration:none; }
+div.bg-tabla {background: url(images/bg-tabla.jpg) no-repeat top center; width:503px; height:125px; float:left; margin:0 0 0 10px}
+input.heightcomment {height:90px}
+.alineado-beneficios {float:left; margin-left:17px}
+
+td.almanaque-marzo {margin-left:10px}

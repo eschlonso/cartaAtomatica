@@ -1,0 +1,20 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|29 Feb 2008 16:40:08 -0000
+vti_extenderversion:SR|6.0.2.6551
+vti_author:SR|TARJETA\\alemanh
+vti_modifiedby:SR|TARJETA\\alemanh
+vti_timecreated:TR|29 Feb 2008 16:40:08 -0000
+vti_cacheddtm:TX|29 Feb 2008 16:40:08 -0000
+vti_filesize:IR|41457
+vti_cachedtitle:SR|Carta Automatica
+vti_cachedbodystyle:SR|<body>
+vti_cachedlinkinfo:VX|S|images/fondo.gif Q|estilos.css S|Scripts/AC_RunActiveContent.js S|images/left.gif D|clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 D|http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab S|images/top.swf S|images/top.swf D|clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 D|http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab S|images/promo_mes_escolar/tit_promo_escolar.swf S|images/promo_mes_escolar/tit_promo_escolar.swf S|images/promo_mes_escolar/show_office.gif S|images/promo_mes_escolar/the_way_comp.gif S|images/promo_mes_escolar/led_video_juegos.gif S|images/promo_mes_escolar/omega.gif S|images/promo_mes_escolar/mercurio.gif S|images/promo_mes_escolar/microhouse.gif S|images/logo_saturno.gif K|promo_03_08_escolar.asp S|images/promo_mes_escolar/abg.gif S|images/promo_mes_escolar/miro.gif S|images/promo_mes_escolar/matilde.gif S|images/promo_mes_escolar/pac.gif S|images/logo_saturno.gif K|promo_03_08_escolar.asp S|images/promo_mes_escolar/aceto.gif S|images/promo_mes_escolar/delafe.gif S|images/promo_mes_escolar/munoz.gif S|images/logo_saturno.gif K|promo_03_08_escolar.asp S|images/promo_mes_escolar/chocolate_jr.gif S|images/promo_mes_escolar/vireina.gif S|images/logo_saturno.gif K|promo_03_08_escolar.asp S|images/promo_mes_escolar/sur.gif S|images/promo_mes_escolar/abecedario.gif S|images/logo_saturno.gif K|promo_03_08_escolar.asp S|images/promo_mes_escolar/isidoro.gif S|images/promo_mes_escolar/barbieri.gif S|images/promo_mes_escolar/san_pablo.gif S|images/right.gif S|images/corner_left.gif S|images/down.gif S|images/down.gif S|images/corner_right.gif H|http://www.quick-media.com K|promo_03_08_escolar.asp
+vti_cachedsvcrellinks:VX|FSUS|images/fondo.gif FQUS|estilos.css FSUS|Scripts/AC_RunActiveContent.js FSUS|images/left.gif NDUS|clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 NDHS|http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab FSUS|images/top.swf FSUS|images/top.swf NDUS|clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 NDHS|http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab FSUS|images/promo_mes_escolar/tit_promo_escolar.swf FSUS|images/promo_mes_escolar/tit_promo_escolar.swf FSUS|images/promo_mes_escolar/show_office.gif FSUS|images/promo_mes_escolar/the_way_comp.gif FSUS|images/promo_mes_escolar/led_video_juegos.gif FSUS|images/promo_mes_escolar/omega.gif FSUS|images/promo_mes_escolar/mercurio.gif FSUS|images/promo_mes_escolar/microhouse.gif FSUS|images/logo_saturno.gif FKUS|promo_03_08_escolar.asp FSUS|images/promo_mes_escolar/abg.gif FSUS|images/promo_mes_escolar/miro.gif FSUS|images/promo_mes_escolar/matilde.gif FSUS|images/promo_mes_escolar/pac.gif FSUS|images/logo_saturno.gif FKUS|promo_03_08_escolar.asp FSUS|images/promo_mes_escolar/aceto.gif FSUS|images/promo_mes_escolar/delafe.gif FSUS|images/promo_mes_escolar/munoz.gif FSUS|images/logo_saturno.gif FKUS|promo_03_08_escolar.asp FSUS|images/promo_mes_escolar/chocolate_jr.gif FSUS|images/promo_mes_escolar/vireina.gif FSUS|images/logo_saturno.gif FKUS|promo_03_08_escolar.asp FSUS|images/promo_mes_escolar/sur.gif FSUS|images/promo_mes_escolar/abecedario.gif FSUS|images/logo_saturno.gif FKUS|promo_03_08_escolar.asp FSUS|images/promo_mes_escolar/isidoro.gif FSUS|images/promo_mes_escolar/barbieri.gif FSUS|images/promo_mes_escolar/san_pablo.gif FSUS|images/right.gif FSUS|images/corner_left.gif FSUS|images/down.gif FSUS|images/down.gif FSUS|images/corner_right.gif NHHS|http://www.quick-media.com FKUS|promo_03_08_escolar.asp
+vti_cachedneedsrewrite:BR|false
+vti_cachedhasbots:BR|false
+vti_cachedhastheme:BR|false
+vti_cachedhasborder:BR|false
+vti_metatags:VR|HTTP-EQUIV=Content-Type text/html;\\ charset=iso-8859-1
+vti_charset:SR|iso-8859-1
+vti_title:SR|Carta Automatica
+vti_backlinkinfo:VX|promo_03_08_escolar.asp

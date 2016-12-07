@@ -1,0 +1,279 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Carta Automatica</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body {
+	background-image:   url(images/fondo.gif);
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+<link href="estilos.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+</head>
+<body>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="9" background="images/left.gif">&nbsp;</td>
+    <td bgcolor="#FFFFFF"><table width="752" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0','width','752','height','100','src','images/top','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','images/top','menu','false' ); //end AC code</script>
+          <noscript>
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"   codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="752" height="100">
+            <param name="movie" value="images/top.swf" />
+            <param name="menu" value="false" />
+            <param name="quality" value="high" />
+            <embed src="images/top.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="752" height="100"></embed>
+          </object>
+          </noscript></td>
+      </tr>
+      <tr>
+        <td><table width="752" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="190" valign="top"><!--#include file="inc_banners_left.asp" --></td>
+            <td width="7" valign="top"></td>
+            <td width="555" valign="top"><table width="555" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="552" height="38" valign="top">
+				<!--#include file="buscador.asp"-->
+                </td>
+              </tr>
+              <tr>
+                <td><table width="550" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                  </tr>
+                  <tr>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                    <td width="548"><table width="548" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0','width','548','height','111','src','images/tit_prensa','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','images/tit_prensa','menu','false' ); //end AC code</script>
+                          <noscript>
+                          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"   codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="548" height="111">
+                            <param name="movie" value="images/tit_prensa.swf" />
+                            <param name="menu" value="false" />
+                            <param name="quality" value="high" />
+                            <embed src="images/tit_prensa.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="548" height="111"></embed>
+                          </object>
+                          </noscript></td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td><table width="97%"  border="0" align="center" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td height="1" colspan="5"></td>
+                          </tr>
+                          <tr>
+                            <td height="1" colspan="5"></td>
+                          </tr>
+                          <tr>
+                            <td bgcolor="#BFEDF9"><img src="images/ico_video.gif" width="28" height="28"></td>
+                            <td bgcolor="#BFEDF9" class="negro">Cig&uuml;e&ntilde;a</td>
+                            <td bgcolor="#BFEDF9" class="negro">2007 </td>
+                            <td bgcolor="#BFEDF9" class="negro">| Publicidad TV </td>
+                            <td bgcolor="#BFEDF9" class="negro"><a href="#" class="negro"><strong onMouseUp="MM_openBrWindow('prensa/ciguena320x240.htm','','scrollbars=yes,width=415,height=440')">ver</strong></a></td>
+                          </tr>
+                          
+                          <tr>
+                            <td height="1" colspan="5"></td>
+                            <td height="1" colspan="5"></td>
+                            <td height="1" colspan="5"></td>
+                            <td height="1" colspan="5"></td>
+                            <td height="1" colspan="5"></td>
+                          </tr>
+                          <tr>
+                            <td bgcolor="#DAF4FB"><img src="images/ico_video.gif" width="28" height="28"></td>
+                            <td bgcolor="#DAF4FB" class="negro">Sue&ntilde;os</td>
+                            <td bgcolor="#DAF4FB" class="negro">2006</td>
+                            <td bgcolor="#DAF4FB" class="negro">| Publicidad TV </td>
+                            <td bgcolor="#DAF4FB" class="negro"><a href="#" class="negro"><strong onMouseUp="MM_openBrWindow('prensa/sueno_320x256.htm','','scrollbars=no,width=415,height=440')">ver</strong></a></td>
+                          </tr>
+                          
+                          <tr>
+                            <td height="1" colspan="5"></td>
+                            </tr>
+                          <tr>
+                            <td width="7%" bgcolor="#BFEDF9"><img src="images/ico_video.gif" width="28" height="28"></td>
+                            <td width="44%" bgcolor="#BFEDF9" class="negro">Asadito</td>
+                            <td width="16%" bgcolor="#BFEDF9" class="negro">2005 </td>
+                            <td width="27%" bgcolor="#BFEDF9" class="negro">| Publicidad TV </td>
+                            <td width="6%" bgcolor="#BFEDF9" class="negro"><a href="#" class="negro"><strong onMouseUp="MM_openBrWindow('prensa/Asadito320x240.htm','','scrollbars=no,width=415,height=440')">ver</strong></a></td>
+                          </tr>
+                          <tr>
+                          <td height="1" colspan="5"></td>
+                            </tr>
+                          <tr>
+                            <td bgcolor="#DAF4FB"><img src="images/ico_video.gif" width="28" height="28"></td>
+                            <td bgcolor="#DAF4FB" class="negro">Pareja</td>
+                            <td bgcolor="#DAF4FB" class="negro">2005</td>
+                            <td bgcolor="#DAF4FB" class="negro"> | Publicidad TV </td>
+                            <td bgcolor="#DAF4FB" class="negro"><a href="#" class="negro"><strong onMouseUp="MM_openBrWindow('prensa/pareja320x240.htm','','scrollbars=no,width=415,height=440')">ver</strong></a></td>
+                          </tr>
+                         <tr>
+                          <td height="1" colspan="5"></td>
+                            </tr>
+                          <tr>
+                            <td bgcolor="#BFEDF9"><img src="images/ico_video.gif" width="28" height="28"></td>
+                            <td bgcolor="#BFEDF9" class="negro">Biombo</td>
+                            <td bgcolor="#BFEDF9" class="negro">2005</td>
+                            <td bgcolor="#BFEDF9" class="negro"> | Publicidad TV </td>
+                            <td bgcolor="#BFEDF9" class="negro"><a href="#" class="negro"><strong onMouseUp="MM_openBrWindow('prensa/biombo320x240.htm','','scrollbars=no,width=415,height=440')">ver</strong></a></td>
+                          </tr>
+                          <tr>
+                          <td height="1" colspan="5"></td>
+                            </tr>
+                          <tr>
+                            <td bgcolor="#DAF4FB"><img src="images/ico_video.gif" width="28" height="28"></td>
+                            <td bgcolor="#DAF4FB" class="negro">Mujer</td>
+                            <td bgcolor="#DAF4FB" class="negro">2005 </td>
+                            <td bgcolor="#DAF4FB" class="negro">| Publicidad TV </td>
+                            <td bgcolor="#DAF4FB" class="negro"><a href="#" class="negro"><strong onMouseUp="MM_openBrWindow('prensa/mujer320x240.htm','','scrollbars=no,width=415,height=440')">ver</strong></a></td>
+                          </tr>
+                          <tr>
+                          <td height="1" colspan="5"></td>
+                            </tr>
+                          <tr>
+                            <td bgcolor="#BFEDF9"><img src="images/ico_papel.gif" width="28" height="28"></td>
+                            <td bgcolor="#BFEDF9" class="negro">Carta Autom&aacute;tica hizo su Presentaci&oacute;n en Bariloche</td>
+                            <td bgcolor="#BFEDF9" class="negro">03.02.2006</td>
+                            <td bgcolor="#BFEDF9" class="negro"> | Diario El Cordillerano </td>
+                            <td bgcolor="#BFEDF9" class="negro"><a href="#" class="negro"><strong onMouseUp="MM_openBrWindow('prensa/prensa_11.htm','','scrollbars=yes,width=780,height=520')">ver</strong></a></td>
+                          </tr>
+                          <tr>
+                            <td bgcolor="#DAF4FB"><img src="images/ico_papel.gif" width="28" height="28"></td>
+                            <td bgcolor="#DAF4FB" class="negro">Las tarjetas buscan los sueldos bajos</td>
+                            <td bgcolor="#DAF4FB" class="negro">Abril 2006</td>
+                            <td bgcolor="#DAF4FB" class="negro"> | Revista Apertura </td>
+                            <td bgcolor="#DAF4FB" class="negro"><a href="#" class="negro"><strong onMouseUp="MM_openBrWindow('prensa/abril_2006_apertura-01.html','','scrollbars=yes,width=540,height=496')">ver</strong></a></td>
+                          </tr>
+                          <tr>
+                          <td height="1" colspan="5"></td>
+                            </tr>
+                          <tr bgcolor="#BFEDF9">
+                            <td><img src="images/ico_papel.gif" width="28" height="28"></td>
+                            <td class="negro">La familia Carta Autom&aacute;tica recorre Bariloche</td>
+                            <td class="negro">27.01.2006</td>
+                            <td bgcolor="#BFEDF9" class="negro"> | Diario El Cordillerano </td>
+                            <td bgcolor="#BFEDF9" class="negro"><a href="#" class="negro"><strong onMouseUp="MM_openBrWindow('prensa/prensa_10.htm','','scrollbars=yes,width=780,height=520')">ver</strong></a></td>
+                          </tr>
+                          <tr>
+                          <td height="1" colspan="5"></td>
+                            </tr>
+                          <tr>
+                            <td bgcolor="#DAF4FB"><img src="images/ico_papel.gif" width="28" height="28"></td>
+                            <td bgcolor="#DAF4FB" class="negro">Pl&aacute;sticos cada vez m&aacute;s flexibles </td>
+                            <td bgcolor="#DAF4FB" class="negro">08.08.2005</td>
+                            <td bgcolor="#DAF4FB" class="negro"> | Revista Fortuna </td>
+                            <td bgcolor="#DAF4FB" class="negro"><a href="#" class="negro"><strong onMouseUp="MM_openBrWindow('prensa/prensa_9.htm','','scrollbars=yes,width=780,height=520')">ver</strong></a></td>
+                          </tr>
+                          <tr>
+                            <td height="1" colspan="5"></td>
+                          </tr>
+                          <tr>
+                            <td height="1" colspan="5"></td>
+                          </tr>
+                          <tr>
+                            <td bgcolor="#DAF4FB"><img src="images/ico_papel.gif" width="28" height="28"></td>
+                            <td bgcolor="#DAF4FB" class="negro">Tarjeta busca captar usuarios con ingresos informales </td>
+                            <td bgcolor="#DAF4FB" class="negro" valign=top >30.06.2005</td>
+                            <td bgcolor="#DAF4FB" class="negro" valign=top > | R&iacute;o Negro Online </td>
+                            <td bgcolor="#DAF4FB" class="negro"><strong><a href="http://rionegro.com.ar/arch200506/30/r30j14.php" target="_blank" class="negro">ver</a></strong></td>
+                          </tr>
+                          <tr>
+                            <td height="1" colspan="5"></td>
+                          </tr>
+                          <tr>
+                            <td bgcolor="#BFEDF9"><img src="images/ico_papel.gif" width="28" height="28"></td>
+                            <td bgcolor="#BFEDF9" class="negro">Carta Autom&aacute;tica sigue apostando en La Plata </td>
+                            <td bgcolor="#BFEDF9" class="negro">04.03.2005</td>
+                            <td bgcolor="#BFEDF9" class="negro"> | Bancas y Finanzas </td>
+                            <td bgcolor="#BFEDF9" class="negro"><a href="#" class="negro"><strong onMouseUp="MM_openBrWindow('prensa/prensa_7.htm','','scrollbars=yes,width=500,height=520')">ver</strong></a></td>
+                          </tr>
+                          <tr>
+                            <td height="1" colspan="5"></td>
+                          </tr>
+                          <tr bgcolor="#DAF4FB">
+                            <td><img src="images/ico_papel.gif" width="28" height="28"></td>
+                            <td class="negro">Carta Autom&aacute;tica premia a sus clientes </td>
+                            <td class="negro">19.10.2004 </td>
+                            <td class="negro">| El Chubut | Regional</td>
+                            <td class="negro"><a href="#" class="negro"><strong onMouseUp="MM_openBrWindow('prensa/prensa_1.htm','','width=350,height=322')">ver</strong></a></td>
+                          </tr>
+                          <tr>
+                            <td height="1" colspan="5"></td>
+                          </tr>
+                          <tr>
+                            <td bgcolor="#BFEDF9"><img src="images/ico_papel.gif" width="28" height="28"></td>
+                            <td bgcolor="#BFEDF9" class="negro"> La tarea de hacer re&iacute;r en tiempos dif&iacute;ciles </td>
+                            <td bgcolor="#BFEDF9" class="negro">03.10.2004 </td>
+                            <td bgcolor="#BFEDF9" class="negro">| El Chubut | Regional</td>
+                            <td bgcolor="#BFEDF9" class="negro"><a href="#" class="negro"><strong onMouseUp="MM_openBrWindow('prensa/prensa_2.htm','','scrollbars=yes,width=622,height=500')">ver</strong></a></td>
+                          </tr>
+                          <tr>
+                            <td height="1" colspan="5"></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td width="548">&nbsp;</td>
+                      </tr>
+                    </table></td>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                  </tr>
+                  <tr>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td width="9" background="images/right.gif">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9"><img src="images/corner_left.gif" width="9" height="9"></td>
+    <td height="9" background="images/down.gif"><img src="images/down.gif" width="1" height="9"></td>
+    <td height="9"><img src="images/corner_right.gif" width="9" height="9"></td>
+  </tr>
+  <tr>
+    <td height="9">&nbsp;</td>
+    <td height="9"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="4%" height="10"><span class="estilo"><a href="http://www.quick-media.com" target="_blank" class="blanco">Qm</a></span></td>
+        <td width="45%" align="right"><a href="#" onMouseUp="MM_openBrWindow('acuerdo.htm','','scrollbars=yes,width=550,height=500')" class="blanco">Pol&iacute;tica de Usuario</a> </td>
+        <td width="51%" align="right" class="blanco-1">- <a href="sitemap.asp" class="blanco">Mapa del Sitio</a> <span class="blanco1">- Todos los derechos reservados &copy; Carta Autom&aacute;tica 2006</span></td>
+      </tr>
+    </table></td>
+    <td height="9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

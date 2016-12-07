@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="apr 2005" total="19">
+<item str="192.168.50.110" cnt="19" />
+</month>
+<month val="may 2005" total="76">
+<item str="192.168.50.110" cnt="76" />
+</month>
+</usagedata>

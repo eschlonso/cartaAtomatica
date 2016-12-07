@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Carta Automatica</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+</head>
+
+<link href="estilos.css" rel="stylesheet" type="text/css">
+
+<body>
+<table width="533" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="3" bgcolor="00B1E4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="31">&nbsp;</td>
+    <td width="485"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" class="celeste">&nbsp; </td>
+      </tr>
+      <tr>
+        <td colspan="3" class="celeste"><div align="center"><strong>        <strong>Para registrarte comunicate al 0810-999-9988 </strong><br>
+Lunes a viernes de 9 a 18.30hs. | S&aacute;bados 8.30 a 13.30hs. </strong></div></td>
+      </tr>
+      <tr>
+        <td colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="100%" colspan="3"><p class="gris">&nbsp;</p></td>
+      </tr>
+    </table></td>
+    <td width="34">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="00B1E4">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

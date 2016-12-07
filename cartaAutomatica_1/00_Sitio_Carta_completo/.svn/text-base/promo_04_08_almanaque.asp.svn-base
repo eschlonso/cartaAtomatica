@@ -1,0 +1,1354 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Carta Automatica</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body {
+	background-image:   url(images/fondo.gif);
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+<link href="estilos.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+</head>
+<body>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="9" background="images/left.gif">&nbsp;</td>
+    <td bgcolor="#FFFFFF"><table width="752" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0','width','752','height','100','src','images/top','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','images/top','menu','false' ); //end AC code</script>
+          <noscript>
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"   codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="752" height="100">
+            <param name="movie" value="images/top.swf" />
+            <param name="menu" value="false" />
+            <param name="quality" value="high" />
+            <embed src="images/top.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="752" height="100"></embed>
+          </object>
+          </noscript></td>
+      </tr>
+      <tr>
+        <td><table width="752" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="190" valign="top"><!--#include file="inc_banners_left.asp" --></td>
+            <td width="7" valign="top"></td>
+            <td width="555" valign="top"><table width="555" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="552" height="38" valign="top">
+                <!--#include file="buscador.asp"-->         
+               </td>
+              </tr>
+              <tr>
+                <td><table width="550" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                  </tr>
+                  <tr>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                    <td width="548"><table width="548" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0','width','548','height','111','src','images/tit_almanaque_desc','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','images/tit_almanaque_desc','menu','false' ); //end AC code</script>
+                          <noscript>
+                          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"   codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="548" height="111">
+                            <param name="movie" value="images/tit_almanaque_desc.swf" />
+                            <param name="menu" value="false" />
+                            <param name="quality" value="high" />
+                            <embed src="images/tit_almanaque_desc.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="548" height="111"></embed>
+                          </object>
+                          </noscript></td>
+                      </tr>
+                      <tr>
+                        <td align="center"><table width="93%" border="0" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td width="548" class="negro">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td align="left" class="xl24"><strong class="titulos">La Plata</strong></td>
+                              </tr>
+                              <tr>
+                                <td align="left" class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                    <tr>
+                                      <td><table width="100%" cellpadding="2" cellspacing="1">
+                                          <tr bgcolor="#C5F0FA">
+                                            <td align="center" class="negro">Comercio </td>
+                                            <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+                                              Todos los d&iacute;as</td>
+                                            <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td width="27%" align="center"><img src="images/logo_movistar.gif" width="50" height="53"></td>
+                                            <td width="37%" align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% <br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center"><img src="images/logo_carrefour.gif" width="131" height="24"></td>
+                                            <td align="center" class="negro">4 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center"><strong><img src="images/logo_mg_hogar.gif" width="69" height="34" vspace="6"></strong></td>
+                                            <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">5% <br>
+                                              Jueves y Viernes</td>
+                                            </tr>
+
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center"><img src="images/logo_american.gif" width="112" height="25" vspace="6"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20% <br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center"><img src="images/logo_rb_neumaticos.gif" width="120" height="33" vspace="5"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">15% en Mano de Obra<br>
+                                              Lunes, Martes, Mi&eacute;rcoles y Jueves</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center"><img src="images/logo_minilent.gif" width="80" height="50" vspace="5"></td>
+                                            <td align="center" class="negro">4 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20%
+                                              - Lunes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                            <td align="center">&nbsp;</td>
+                                            <td align="center" class="negro">5%
+                                              - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                            <td align="center">&nbsp;</td>
+                                            <td align="center" class="negro">5%
+                                              - Domingos</td>
+                                            </tr>
+                                          
+                                      </table></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              <tr>
+                                <td align="left" class="xl24">&nbsp;</td>
+                              </tr>
+                                <tr>
+                                  <td width="764" align="left" class="xl24"><strong class="titulos">Bah&iacute;a Blanca </strong></td>
+                                </tr>
+                                <tr>
+                                  <td align="left" class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                      <tr>
+                                        <td class="negro"><table width="100%" cellpadding="2" cellspacing="1">
+                                            <tr bgcolor="#C5F0FA">
+                                              <td align="center">Comercio </td>
+                                              <td align="center">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                              <td width="36%" align="center">Ahorr&aacute;</td>
+                                              </tr>
+                                            <tr bgcolor="#EAF9FD">
+                                              <td align="center"><img src="images/logo_la_banderita.gif" width="105" height="31" vspace="5"></td>
+                                              <td align="center" class="negro">4 cuotas sin inter&eacute;s</td>
+                                              <td align="center" class="negro">10% - Mi&eacute;rcoles<br>
+<span class="negroch">Vigencia: 01/07/08 al 31/10/08</span></td>
+                                            </tr>
+                                            <tr bgcolor="#EAF9FD">
+                                              <td width="27%" align="center"><strong><img src="images/logo_super_burgos.gif" width="122" height="33" vspace="5"></strong></td>
+                                              <td width="37%" align="center" class="negro">4 cuotas sin inter&eacute;s</td>
+                                              <td align="center" class="negro">10% - Lunes</td>
+                                              </tr>
+                                            
+
+                                            <tr bgcolor="#EAF9FD">
+                                              <td align="center"><img src="images/logo_merlino.gif" width="97" height="35" vspace="5"></td>
+                                              <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                              <td align="center" class="negro"> 10% - Mi&eacute;rcoles</td>
+                                              </tr>
+                                            <tr bgcolor="#EAF9FD">
+                                              <td align="center"><strong><img src="images/logo_by_deep.gif" width="103" height="36" vspace="5"></strong></td>
+                                              <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                              <td align="center" class="negro">20% - Jueves</td>
+                                              </tr>
+                                            <tr bgcolor="#EAF9FD">
+                                              <td align="center"><img src="images/logo_mcgregor.gif" width="100" height="19" vspace="5"></td>
+                                              <td align="center" class="negro">12 cuotas sin inter&eacute;s</td>
+                                              <td align="center" class="negro">20%<br>
+                                                Todos los d&iacute;as</td>
+                                              </tr>
+                                            <tr bgcolor="#EAF9FD">
+                                              <td align="center"><img src="images/logo_tobacco.gif" width="100" height="23" vspace="5"></td>
+                                              <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                              <td align="center" class="negro">10% - Mi&eacute;rcoles</td>
+                                              </tr>
+                                            <tr bgcolor="#EAF9FD">
+                                              <td align="center"><img src="images/logo_hiper_tehuelche.gif" width="119" height="40"></td>
+                                              <td align="center" class="negro">12 cuotas sin inter&eacute;s </td>
+                                              <td align="center" class="negro">10% - Martes</td>
+                                              </tr>
+                                            <tr bgcolor="#EAF9FD">
+                                              <td align="center"><strong><img src="images/logo_optica_sanmartin.gif" width="117" height="39"></strong></td>
+                                              <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                              <td align="center" class="negro">20% (en antejos de sol) S&aacute;bado</td>
+                                              </tr>
+                                            <tr bgcolor="#EAF9FD">
+                                              <td align="center"><img src="images/logo_k&m.gif" width="70" height="63"></td>
+                                              <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                              <td align="center" class="negro">10% -
+                                                S&aacute;bado</td>
+                                              </tr>
+                                            <tr bgcolor="#EAF9FD">
+                                              <td align="center"><img src="images/logo_movistar.gif" width="50" height="53" vspace="5"></td>
+                                              <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                              <td align="center" class="negro">10%<br>
+                                                Todos los d&iacute;as</td>
+                                              </tr>
+                                            <tr bgcolor="#EAF9FD">
+                                              <td align="center"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                              <td align="center">&nbsp;</td>
+                                              <td align="center" class="negro">5% - Martes</td>
+                                              </tr>
+                                            <tr bgcolor="#EAF9FD">
+                                              <td align="center"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                              <td align="center">&nbsp;</td>
+                                              <td align="center" class="negro">5% - Domingos</td>
+                                              </tr>
+                                            
+                                            
+                                        </table></td>
+                                      </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td align="left" class="xl24">&nbsp;</td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td width="764" align="left" class="xl24"><strong class="titulos">Punta Alta </strong></td>
+                                </tr>
+                                <tr>
+                                  <td align="left" class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                      <tr>
+                                        <td><table width="100%" cellpadding="2" cellspacing="1">
+                                          <tr bgcolor="#C5F0FA">
+                                            <td align="center" class="negro">Comercio </td>
+                                            <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                            <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td width="27%" align="center" class="negro"><strong><img src="images/logo_super_saavedra.gif" width="78" height="58" vspace="5"></strong></td>
+                                            <td width="37%" align="center" class="negro">4 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% - Lunes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_merlino.gif" width="97" height="35" vspace="5"></td>
+                                            <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro"> 10% - Mi&eacute;rcoles</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_ludica.gif" width="124" height="20" vspace="10"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_hiper_tehuelche.gif" width="119" height="40"></td>
+                                            <td align="center" class="negro">12 cuotas sin inter&eacute;s </td>
+                                            <td align="center" class="negro">10% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_la_robla.gif" width="100" height="61" vspace="5"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">10% - Jueves</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><strong><img src="images/logo_iopa.gif" width="127" height="55" vspace="5"></strong></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20% - Viernes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_nanaton.gif" width="110" height="42" vspace="5"></td>
+                                            <td align="center" class="negro">4 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% - Jueves</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_movistar.gif" width="50" height="53" vspace="5"></td>
+                                            <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Domingos</td>
+                                            </tr>
+                                          
+                                        </table></td>
+                                      </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td align="left" class="xl24">&nbsp;</td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td width="764" align="left" class="xl24"><strong class="titulos">Neuqu&eacute;n</strong></td>
+                                </tr>
+                                <tr>
+                                  <td class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                      <tr>
+                                        <td><table width="100%" cellpadding="2" cellspacing="1">
+                                          <tr bgcolor="#C5F0FA">
+                                            <td align="center" class="negro">Comercio </td>
+                                            <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                            <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td width="27%" align="center" class="negro"><img src="images/logo_movistar.gif" width="50" height="53" vspace="5"></td>
+                                            <td width="37%" align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_la_anonima.gif" width="79" height="50" vspace="5"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">5% - Lunes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_saturno.gif" width="112" height="57" vspace="5"></td>
+                                            <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          
+
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_ferracioli.gif" width="113" height="26" vspace="5"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_el_dante.gif" width="73" height="64" vspace="3"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_la_marca.gif" width="121" height="28" vspace="10"></td>
+                                            <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_optica_wolf.gif" width="68" height="36" vspace="5"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">20% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Domingos</td>
+                                            </tr>
+                                          
+                                          
+                                        </table></td>
+                                      </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td class="xl24">&nbsp;</td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td width="764" align="left" class="xl24"><strong class="titulos">Cipolletti</strong></td>
+                                </tr>
+                                <tr>
+                                  <td class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                      <tr>
+                                        <td><table width="100%" cellpadding="2" cellspacing="1">
+                                          <tr bgcolor="#C5F0FA">
+                                            <td align="center" class="negro">Comercio </td>
+                                            <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                            <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td width="27%" align="center" class="negro"><img src="images/logo_movistar.gif" width="50" height="53"></td>
+                                            <td width="37%" align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_la_anonima.gif" width="79" height="50"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">5% - Lunes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_saturno.gif" width="112" height="57"></td>
+                                            <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          
+
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_el_dante.gif" width="73" height="64"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_la_marca.gif" width="121" height="28" vspace="5"></td>
+                                            <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_maua.gif" width="90" height="34" vspace="5"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><strong>Corral&oacute;n Yacopino</strong></td>
+                                            <td align="center" class="negro">12 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% - Viernes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_giro_didactico.gif" width="88" height="38" vspace="5"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">20% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Domingos</td>
+                                            </tr>
+                                          
+                                        </table></td>
+                                      </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td class="xl24">&nbsp;</td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td width="764" align="left" class="xl24"><strong class="titulos">Gral. Roca</strong></td>
+                                </tr>
+                                <tr>
+                                  <td class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                      <tr>
+                                        <td><table width="100%" cellpadding="2" cellspacing="1">
+                                          <tr bgcolor="#C5F0FA">
+                                            <td align="center" class="negro">Comercio </td>
+                                            <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                            <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td width="27%" align="center" class="negro"><img src="images/logo_movistar.gif" width="50" height="53"></td>
+                                            <td width="37%" align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_la_anonima.gif" width="79" height="50"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">5% - Lunes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_saturno.gif" width="112" height="57"></td>
+                                            <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          
+
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_suomar.gif" width="97" height="36" vspace="5"></td>
+                                            <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro"><p>10% - Martes</p>                                              </td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><strong><img src="images/logo_stadium.gif" width="80" height="31" vspace="5"></strong></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><strong>Pinturer&iacute;a Colorama</strong></td>
+                                            <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Lunes a Viernes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_stylent.gif" width="117" height="37"></td>
+                                            <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20%<br>
+                                              Lunes y Mi&eacute;rcoles</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><strong><img src="images/logo_carrusel.gif" width="120" height="32" vspace="5"></strong></td>
+                                            <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% - Jueves</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Domingos</td>
+                                            </tr>
+                                          
+                                          
+                                          
+                                        </table></td>
+                                      </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td class="xl24">&nbsp;</td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td align="left" class="xl24"><strong class="titulos">Villa Regina</strong></td>
+                                </tr>
+                                <tr>
+                                  <td width="764" class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                      <tr>
+                                        <td><table width="100%" cellpadding="2" cellspacing="1">
+                                          <tr bgcolor="#C5F0FA">
+                                            <td align="center" class="negro">Comercio </td>
+                                            <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                            <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td width="27%" align="center" class="negro"><img src="images/logo_movistar.gif" width="50" height="53"></td>
+                                            <td width="37%" align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_la_anonima.gif" width="79" height="50"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">5% - Lunes</td>
+                                            </tr>
+                                          
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_saturno.gif" width="112" height="57"></td>
+                                            <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><strong>Pinturer&iacute;a Colorama</strong></td>
+                                            <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Lunes a Viernes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_planeta_sol.gif" width="100" height="45"></td>
+                                            <td align="center" class="negro">Hasta 9 Cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% - Mi&eacute;rcoles</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_optica_biolux.gif" width="95" height="47"></td>
+                                            <td align="center" class="negro">6 Cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20%<br>
+                                              Lunes a Viernes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_calzados_ariel.gif" width="86" height="48"></td>
+                                            <td align="center" class="negro">Hasta 9 Cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20% - Mi&eacute;rcoles</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Domingos</td>
+                                            </tr>
+                                          
+                                          
+                                          
+                                        </table></td>
+                                      </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td class="xl24">&nbsp;</td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td width="764" align="left" class="xl24"><strong class="titulos">Choele Choel</strong></td>
+                              </tr>
+                              <tr>
+                                <td class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                    <tr>
+                                      <td><table width="100%" cellpadding="2" cellspacing="1">
+                                        <tr bgcolor="#C5F0FA">
+                                          <td align="center" class="negro">Comercio </td>
+                                          <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                          <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                          </tr>
+                                        
+                                        <tr bgcolor="#EAF9FD">
+                                          <td width="27%" align="center" class="negro"><img src="images/logo_movistar.gif" width="50" height="53"></td>
+                                          <td width="37%" align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">10%<br>
+                                            Todos los d&iacute;as</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_maxicom.gif" width="111" height="43" vspace="4"></td>
+                                          <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">5% - Lunes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_merlino.gif" width="97" height="35"></td>
+                                          <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">10% - Mi&eacute;rcoles</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_optica_valle_medio.gif" width="100" height="49"></td>
+                                          <td align="center" class="negro">12 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro"> 20% en &Oacute;ptica<br>
+                                            Martes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><strong><img src="images/logo_casa_chispita.gif" width="77" height="64"></strong></td>
+                                          <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro"> 10% - Mi&eacute;rcoles</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><strong><img src="images/logo_veo_veo.gif" width="83" height="60"></strong></td>
+                                          <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">10% - Jueves</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_corralon_hernalz.gif" width="107" height="26" vspace="5"></td>
+                                          <td align="center" class="negro">12 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">10% - Viernes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_oxido.gif" width="80" height="34" vspace="5"></td>
+                                          <td align="center" class="negro">12 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">20% - Viernes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><strong><img src="images/logo_portal_mat_cons.gif" width="118" height="35" vspace="5"></strong></td>
+                                          <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">10% en Pinturer&iacute;a<br>
+                                            S&aacute;bados</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_rosso.gif" width="98" height="20" vspace="5"></td>
+                                          <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s </td>
+                                          <td align="center" class="negro">10% en Ferreter&iacute;a<br>
+                                            S&aacute;bados</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                          <td align="center" class="negro">&nbsp;</td>
+                                          <td align="center" class="negro">5% - Martes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                          <td align="center" class="negro">&nbsp;</td>
+                                          <td align="center" class="negro">5% - Domingos</td>
+                                          </tr>
+                                        
+                                        
+                                        
+                                      </table></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              <tr>
+                                <td class="xl24">&nbsp;</td>
+                              </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td width="764" align="left" class="xl24"><strong class="titulos">Tucum&aacute;n</strong></td>
+                                </tr>
+                                <tr>
+                                  <td class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                      <tr>
+                                        <td><table width="100%" cellpadding="2" cellspacing="1">
+                                          <tr bgcolor="#C5F0FA">
+                                            <td align="center" class="negro">Comercio </td>
+                                            <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                            <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td width="27%" align="center" class="negro"><img src="images/logo_movistar.gif" width="50" height="53"></td>
+                                            <td width="37%" align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><strong><img src="images/logo_libertad.gif" width="114" height="52"></strong></td>
+                                            <td align="center" class="negro">2,3 y 6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">5% - Lunes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_oscarbaribieri.gif" width="102" height="50"></td>
+                                            <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% - S&aacute;bados</td>
+                                            </tr>
+                                          
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_paco_garcia.gif" width="69" height="47"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro"> 20% - Viernes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_zeramiko.gif" width="122" height="22" vspace="5"></td>
+                                            <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><strong><img src="images/logo_ferreteria_martin.gif" width="114" height="28"></strong></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% - S&aacute;bados</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_optica_vision.gif" width="74" height="50" vspace="5"></td>
+                                            <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><strong><img src="images/logo_gimos.gif" width="95" height="23"></strong></td>
+                                            <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><strong>Pizzeria La Esquina</strong></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Lunes, Martes y Mi&eacute;rcoles</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Domingos</td>
+                                            </tr>
+                                          
+                                          
+                                        </table></td>
+                                      </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td class="xl24">&nbsp;</td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td width="764" align="left" class="xl24"><strong class="titulos">Salta</strong></td>
+                                </tr>
+                                <tr>
+                                  <td class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                      <tr>
+                                        <td><table width="100%" cellpadding="2" cellspacing="1">
+                                          <tr bgcolor="#C5F0FA">
+                                            <td align="center" class="negro">Comercio </td>
+                                            <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                            <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td width="27%" align="center" class="negro"><img src="images/logo_movistar.gif" width="50" height="53"></td>
+                                            <td width="37%" align="center" class="negro">18 cuotas sin interes</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><strong><img src="images/logo_libertad.gif" width="114" height="52"></strong></td>
+                                            <td align="center" class="negro">2,3 y 6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">5% - Lunes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><strong><img src="images/logo_hrmaluf.gif" width="87" height="42" vspace="5"></strong></td>
+                                            <td align="center" class="negro">18 cuotas sin interes</td>
+                                            <td align="center" class="negro">5% - S&aacute;bados</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_simbolo.gif" width="60" height="42" vspace="5"></td>
+                                            <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20%<br>
+                                              Martes y jueves</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_colorshop.gif" width="90" height="33" vspace="5"></td>
+                                            <td align="center" class="negro">9 CUOTAS sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Lunes y Miercoles</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_optica_salas.gif" width="70" height="38" vspace="5"></td>
+                                            <td align="center" class="negro">6 CUOTAS sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20% - Mi&eacute;rcoles</td>
+                                            </tr>
+                                          
+
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_paul_carty.gif" width="59" height="65"></td>
+                                            <td align="center" class="negro">9 CUOTAS sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% - Mi&eacute;rcoles</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Domingos</td>
+                                            </tr>
+                                        </table></td>
+                                      </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td class="xl24">&nbsp;</td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td width="764" align="left" class="xl24"><strong class="titulos">Comodoro Rivadavia </strong></td>
+                                </tr>
+                                <tr>
+                                  <td class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                      <tr>
+                                        <td><table width="100%" cellpadding="2" cellspacing="1">
+                                          <tr bgcolor="#C5F0FA">
+                                            <td align="center" class="negro">Comercio </td>
+                                            <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                            <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td width="27%" align="center" class="negro"><img src="images/logo_movistar.gif" width="50" height="53"></td>
+                                            <td width="37%" align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_la_anonima.gif" width="79" height="50"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">5% - Lunes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_saturno.gif" width="112" height="57"></td>
+                                            <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% <br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_hiper_tehuelche.gif" width="119" height="40"></td>
+                                            <td align="center" class="negro">12 cuotas sin inter&eacute;s </td>
+                                            <td align="center" class="negro">10% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_optimar.gif" width="75" height="69"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20%<br>
+                                              Lunes y Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_tijuana.gif" width="86" height="38"></td>
+                                            <td align="center" class="negro">4 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_zin_zalabin.gif" width="96" height="54"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% - Lunes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_la_barca.gif" width="109" height="55"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Lunes, Martes y Mi&eacute;rcoles</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Domingos</td>
+                                            </tr>
+                                          
+                                          
+                                        </table></td>
+                                      </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td class="xl24">&nbsp;</td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td width="764" align="left" class="xl24"><strong class="titulos">Caleta Olivia</strong></td>
+                              </tr>
+                              <tr>
+                                <td class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                    <tr>
+                                      <td><table width="100%" cellpadding="2" cellspacing="1">
+                                        <tr bgcolor="#C5F0FA">
+                                          <td align="center" class="negro">Comercio </td>
+                                          <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                          <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td width="27%" align="center" class="negro"><img src="images/logo_movistar.gif" width="50" height="53"></td>
+                                          <td width="37%" align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">10%<br>
+                                            Todos los d&iacute;as</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_la_anonima.gif" width="79" height="50"></td>
+                                          <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">5% - Lunes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_saturno.gif" width="112" height="57"></td>
+                                          <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">10%<br>
+                                            Todos los d&iacute;as</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_hiper_tehuelche.gif" width="119" height="40"></td>
+                                          <td align="center" class="negro">12 cuotas sin inter&eacute;s </td>
+                                          <td align="center" class="negro">10% - Martes</td>
+                                          </tr>
+                                        
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><strong><img src="images/logo_la_liquidadora.gif" width="112" height="30"></strong></td>
+                                          <td align="center" class="negro"> 6 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">20%<br>
+                                            Martes y S&aacute;bados</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_optica_valente.gif" width="110" height="34" vspace="5"></td>
+                                          <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">20% - Viernes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                          <td align="center" class="negro">&nbsp;</td>
+                                          <td align="center" class="negro">5% - Martes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                          <td align="center" class="negro">&nbsp;</td>
+                                          <td align="center" class="negro">5% - Domingos</td>
+                                          </tr>
+                                        
+                                        
+                                        
+                                      </table></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              <tr>
+                                <td class="xl24">&nbsp;</td>
+                              </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td width="764" align="left" class="xl24"><strong class="titulos">Trelew</strong></td>
+                              </tr>
+                              <tr>
+                                <td class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                    <tr>
+                                      <td><table width="100%" cellpadding="2" cellspacing="1">
+                                          <tr bgcolor="#C5F0FA">
+                                            <td align="center" class="negro">Comercio </td>
+                                            <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                            <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td width="27%" align="center" class="negro"><img src="images/logo_movistar.gif" width="50" height="53"></td>
+                                            <td width="37%" align="center" class="negro">18 cuotas s / inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_la_anonima.gif" width="79" height="50"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">5% - Lunes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_saturno.gif" width="112" height="57"></td>
+                                            <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_vs_materiales.gif" width="75" height="47" vspace="5"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10% - Viernes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><strong><img src="images/logo_optica_martin.gif" width="99" height="46" vspace="5"></strong></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">10%<br>
+                                              Todos los d&iacute;as</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_el_arcon.gif" width="117" height="32" vspace="5"></td>
+                                            <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                            <td align="center" class="negro">20%<br>
+                                              Todos los d&iacute;as</td>
+                                          </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Martes</td>
+                                            </tr>
+                                          <tr bgcolor="#EAF9FD">
+                                            <td align="center" class="negro"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                            <td align="center" class="negro">&nbsp;</td>
+                                            <td align="center" class="negro">5% - Domingos</td>
+                                            </tr>
+                                          
+                                      </table></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              <tr>
+                                <td class="xl24">&nbsp;</td>
+                              </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td width="764" align="left" class="xl24"><strong class="titulos">Puerto Madryn</strong></td>
+                              </tr>
+                              <tr>
+                                <td class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                    <tr>
+                                      <td><table width="100%" cellpadding="2" cellspacing="1">
+                                        <tr bgcolor="#C5F0FA">
+                                          <td align="center" class="negro">Comercio </td>
+                                          <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                          <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td width="27%" align="center" class="negro"><img src="images/logo_movistar.gif" width="50" height="53"></td>
+                                          <td width="37%" align="center" class="negro">18 cuotas s / inter&eacute;s</td>
+                                          <td align="center" class="negro">10%<br>
+                                            Todos los d&iacute;as</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_la_anonima.gif" width="79" height="50"></td>
+                                          <td align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">5% - Lunes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_saturno.gif" width="112" height="57"></td>
+                                          <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">10%<br>
+                                            Todos los d&iacute;as</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_hiper_tehuelche.gif" width="119" height="40"></td>
+                                          <td align="center" class="negro">12 cuotas sin inter&eacute;s </td>
+                                          <td align="center" class="negro">10% - Martes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_festisur.gif" width="117" height="51" vspace="5"></td>
+                                          <td align="center" class="negro">6 cuotas sin inter&eacute;s </td>
+                                          <td align="center" class="negro">10% en cotill&oacute;n<br>
+                                            Lunes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_eikeel.gif" width="57" height="45" vspace="5"></td>
+                                          <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">10% - Todos los d&iacute;as</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_tu_vestir.gif" width="65" height="53" vspace="4"></td>
+                                          <td align="center" class="negro">6 cuotas sin inter&eacute;s </td>
+                                          <td align="center" class="negro">20%<br>
+                                            Viernes</td>
+                                        </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_zur_optica.gif" width="118" height="21" vspace="4"></td>
+                                          <td align="center" class="negro">4 cuotas sin inter&eacute;s </td>
+                                          <td align="center" class="negro">20%<br>
+                                            Todos los d&iacute;as</td>
+                                        </tr>
+                                        
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                          <td align="center" class="negro">&nbsp;</td>
+                                          <td align="center" class="negro">5% - Martes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                          <td align="center" class="negro">&nbsp;</td>
+                                          <td align="center" class="negro">5% - Domingos</td>
+                                          </tr>
+                                        
+                                        
+                                      </table></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              <tr>
+                                <td class="xl24">&nbsp;</td>
+                              </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td width="764" align="left" class="xl24"><strong class="titulos">Bariloche</strong></td>
+                              </tr>
+                              <tr>
+                                <td class="xl24"><table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#C5F0FA">
+                                    <tr>
+                                      <td><table width="100%" cellpadding="2" cellspacing="1">
+                                        <tr bgcolor="#C5F0FA">
+                                          <td align="center" class="negro">Comercio </td>
+                                          <td align="center" class="negro">Cuotas sin inter&eacute;s<br>
+Todos los d&iacute;as</td>
+                                          <td width="36%" align="center" class="negro">Ahorr&aacute;</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td width="27%" align="center" class="negro"><img src="images/logo_la_anonima.gif" width="79" height="50" vspace="5"></td>
+                                          <td width="37%" align="center" class="negro">6 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">5% - Lunes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_shop_onelli.gif" width="85" height="71"></td>
+                                          <td align="center" class="negro">18 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">5% - Jueves</td>
+                                          </tr>
+                                        
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_aventura.gif" width="78" height="39"></td>
+                                          <td align="center" class="negro">12 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">20% - Mi&eacute;rcoles</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_sprint.gif" width="76" height="44"></td>
+                                          <td align="center" class="negro">12 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">20% - Mi&eacute;rcoles</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_exclusive.gif" width="108" height="20"></td>
+                                          <td align="center" class="negro">12 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">20% - Mi&eacute;rcoles</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_hiper_tehuelche.gif" width="119" height="40"></td>
+                                          <td align="center" class="negro">12 cuotas sin inter&eacute;s </td>
+                                          <td align="center" class="negro">10% - Martes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><strong><img src="images/logo_molenberg.gif" width="127" height="33" vspace="5"></strong></td>
+                                          <td align="center" class="negro">12 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">10%<br>
+                                            Todos los d&iacute;as</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_fantasia.gif" width="104" height="35"></td>
+                                          <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">10%<br>
+                                            Todos los d&iacute;as</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><strong>Chuly Pop</strong></td>
+                                          <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">10%<br>
+                                            Todos los d&iacute;as</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_breogan.gif" width="100" height="34" vspace="5"></td>
+                                          <td align="center" class="negro">&nbsp;</td>
+                                          <td align="center" class="negro">10% - Viernes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_cinesur.gif" width="45" height="60" vspace="5"></td>
+                                          <td align="center" class="negro">Hasta 4 cuotas sin inter&eacute;s</td>
+                                          <td align="center" class="negro">30%<br>
+                                            Todos los d&iacute;as</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_movistar.gif" width="50" height="53"></td>
+                                          <td align="center" class="negro">18 cuotas s / inter&eacute;s</td>
+                                          <td align="center" class="negro">10%<br>
+                                            Todos los d&iacute;as</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_farm_perfu2.gif" width="42" height="58" vspace="4"></td>
+                                          <td align="center" class="negro">&nbsp;</td>
+                                          <td align="center" class="negro">5% - Martes</td>
+                                          </tr>
+                                        <tr bgcolor="#EAF9FD">
+                                          <td align="center" class="negro"><img src="images/logo_estaciones_serv2.gif" width="42" height="60" vspace="4"></td>
+                                          <td align="center" class="negro">&nbsp;</td>
+                                          <td align="center" class="negro">5% - Domingos</td>
+                                          </tr>
+                                        
+                                      </table></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                            </table></td>
+                          </tr>
+                          <tr>
+                            <td class="negro"><table width="507" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td width="764" class="xl24">&nbsp;</td>
+                              </tr>
+                            </table></td>
+                          </tr>
+
+                          <tr>
+                            <td class="negro"><table width="90%"  border="0" align="center" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td align="left"><a href="#" class="celeste" onClick="MM_openBrWindow('pop_legales_almanaque.html','','scrollbars=yes,width=530,height=430')">&gt;&gt; T&eacute;rminos y Condiciones</a></td>
+                              </tr>
+                            </table></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td width="548">&nbsp;</td>
+                      </tr>
+                      
+                    </table></td>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                  </tr>
+                  <tr>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                    <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td width="9" background="images/right.gif">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9"><img src="images/corner_left.gif" width="9" height="9"></td>
+    <td height="9" background="images/down.gif"><img src="images/down.gif" width="1" height="9"></td>
+    <td height="9"><img src="images/corner_right.gif" width="9" height="9"></td>
+  </tr>
+  <tr>
+    <td height="9">&nbsp;</td>
+    <td height="9"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="4%" height="10"><span class="estilo"><a href="http://www.quick-media.com" target="_blank" class="blanco">Qm</a></span></td>
+        <td width="45%" align="right"><a href="#" onMouseUp="MM_openBrWindow('acuerdo.htm','','scrollbars=yes,width=550,height=500')" class="blanco">Pol&iacute;tica de Usuario</a> </td>
+        <td width="51%" align="right" class="blanco-1">- <a href="sitemap.asp" class="blanco">Mapa del Sitio</a> <span class="blanco1">- Todos los derechos reservados &copy; Carta Autom&aacute;tica 2006</span></td>
+      </tr>
+    </table></td>
+    <td height="9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

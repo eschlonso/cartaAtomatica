@@ -1,0 +1,471 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Carta Automatica</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body {
+	background-image:   url(images/fondo.gif);
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.txt_negro td p .negro .txt_negro {
+	font-weight: bold;
+}
+.txt_negro td p .negro .txt_negro .txt_negro {
+	font-weight: normal;
+}
+-->
+</style>
+<link href="estilos.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+
+
+
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+ 
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-42658052-1']);
+
+  _gaq.push(['_setDomainName', 'cartaautomatica.com.ar']);
+
+  _gaq.push(['_trackPageview']);
+
+ 
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+  })();
+
+ 
+
+</script>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+  <th valign="top" scope="col"> </th>
+  <th scope="col">
+
+	
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="9" background="images/left.gif">&nbsp;</td>
+        <td bgcolor="#FFFFFF"><table width="752" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="752" height="100">
+              <param name="movie" value="images/top.swf">
+              <param name="quality" value="high">
+              <param name="wmode" value="opaque">
+              <embed src="images/top.swf" quality="high" wmode="opaque" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="752" height="100"></embed>
+            </object></td>
+          </tr>
+	      <tr>
+		     <td><table width="752" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="190" valign="top"><!--#include file="inc_banners_left.asp" --></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <td width="7" valign="top"></td>
+                <td width="555" valign="top">
+			
+
+
+				<table width="555" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                   <td width="552" height="38" valign="top">
+					<!--#include file="buscador.asp"-->
+					</td>
+                  </tr>
+                  <tr>
+				
+
+				
+                 <td><table width="550" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                        <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                        <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                      </tr>
+
+                      <tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                        <td width="548">
+						<table width="548" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+
+
+
+
+
+
+
+
+
+
+                            <td><script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0','width','548','height','111','src','images/tit_ganadores','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','images/tit_ganadores','menu','false' ); //end AC code</script>
+                              <noscript>
+                                <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"   codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="548" height="111">
+                                  <param name="movie" value="images/tit_ganadores.swf" />
+                                  <param name="menu" value="false" />
+                                  <param name="quality" value="high" />
+                                  <embed src="images/tit_ganadores.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="548" height="111"></embed>
+                                </object>
+                              </noscript></td>
+                          </tr>
+                          <tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            <td valign="top"><br>
+                              <table width="93%"  border="0" align="center" cellpadding="0" cellspacing="0">
+                               
+							   <tr>
+                                  <td width="5" class="rojo"><strong style="color:#de002b">Ganadores del Sorteo:  "Promo Pago Puntual Abril 2013"</strong>
+                                        <table width="497" cellpadding="0" cellspacing="0">
+                                          <col width="328">
+                                          <col width="125">
+                                          <tr class="rojo">
+                                            <td width="316">Apellido    y Nombre</td>
+                                            <td width="179">Sucursal</td>
+                                          </tr>
+                                          <tr>
+                                            <td class="negro"><span class="negro"></span>MALDONADO GISELA</td>
+                                            <td class="negro">Bahia Blanca</td>
+                                          </tr>
+                                          <tr>
+                                            <td><span class="negro">LALLANA VICTOR ALCIDES</span></td>
+                                            <td><span class="negro">Choele Choel</span></td>
+                                          </tr>
+                                          <tr>
+                                            <td><span class="negro">BORDON ADRIANA MARIEL</span></td>
+                                            <td><span class="negro">Comodoro Rivadavia</span></td>
+                                          </tr>
+                                          <tr>
+                                            <td><span class="negro">MARTIN CARLOS MAURICIO</span></td>
+                                            <td><span class="negro">Gral. Roca</span></td>
+                                          </tr>
+                                          <tr>
+                                            <td><span class="negro">FRIAS MANUEL ENRIQUE</span></td>
+                                            <td><span class="negro">Neuquen</span></td>
+                                          </tr>
+                                          <tr>
+                                            <td class="negro"><span class="negro"></span>AVILA JOSE ANTONIO</td>
+                                            <td><span class="negro">Neuquen</span></td>
+                                          </tr>
+                                          <tr>
+                                            <td class="negro"><span class="negro"></span>MEZA LORENA ITATI</td>
+                                            <td><span class="negro">Rio Gallegos</span></td>
+                                          </tr>
+                                          <tr>
+                                            <td class="negro"><span class="negro">CARDENAS MANUEL SEGUNDO</span></td>
+                                            <td><span class="negro">Rio Gallegos</span></td>
+                                          </tr>
+                                          <tr>
+                                            <td class="negro"><span class="negro">TOLEDO LAURA EMILIA</span></td>
+                                            <td><span class="negro">Salta</span></td>
+                                          </tr>
+                                          <tr>
+                                            <td class="negro"><span class="negro"></span>COSTILLA ANA LIA</td>
+                                            <td><span class="negro">Tucuman</span></td>
+                                          </tr>
+                                          </table>                                      </td>
+                                </tr>
+								
+								
+								
+								
+								
+                              </table></td>
+                          </tr>
+					   
+                     	<tr>
+                         <td width="548">&nbsp;</td>
+                        </tr>
+					
+                        </table></td>
+                        <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                      </tr>
+                      <tr>
+                        <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                        <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                        <td width="1" height="1" bgcolor="#B6B7B8"></td>
+                      </tr>
+					  </table>
+					  </td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+      </table></td>
+        <td width="9" background="images/right.gif">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="9"><img src="images/corner_left.gif" alt="" width="9" height="9"></td>
+        <td height="9" background="images/down.gif"><img src="images/down.gif" alt="" width="1" height="9"></td>
+        <td height="9"><img src="images/corner_right.gif" alt="" width="9" height="9"></td>
+      </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td><table width="99%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="4%" height="10" align="center"><span class="estilo"><a href="http://www.iutopi.com" target="_blank" class="blanco" style="color: #666666">i</a></span></td>
+          <td width="43%" align="right" style="color: #333333"><a href="#" class="blanco" style="color: #666" onMouseUp="MM_openBrWindow('acuerdo.htm','','scrollbars=yes,width=550,height=500')">Pol<span style="color: #666666"></span><span style="color: #999999"></span>&iacute;tica de Usuario</a></td>
+          <td width="53%" align="left" class="blanco-1" style="color: #666666">- <a href="sitemap.asp" class="blanco" style="color: #666666">Mapa del Sitio</a> <span class="blanco1">- Todos los derechos reservados &copy; Carta Autom&aacute;tica 2013</span></td>
+        </tr>
+      </table></td>
+    </tr>
+  </table>
+</body>
+</html>

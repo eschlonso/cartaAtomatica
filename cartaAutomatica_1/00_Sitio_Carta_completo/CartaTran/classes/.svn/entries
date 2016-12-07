@@ -1,0 +1,79 @@
+8
+
+dir
+166
+https://public.quick-media.com:8180/repos/cartaautomatica/trunk/web/CartaTran/classes
+https://public.quick-media.com:8180/repos/cartaautomatica
+
+
+
+2009-08-31T00:28:14.597394Z
+166
+ptribug
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+97846edc-fd9f-480a-911c-c706173cf9f9
+
+WS_FTP.LOG
+file
+
+
+
+
+2009-08-31T11:58:02.515625Z
+a78654d165e84dbda35ca43c16a9c398
+2009-08-31T00:28:14.597394Z
+166
+ptribug
+
+class.db.js.asp
+file
+
+
+
+
+2009-08-31T11:58:02.515625Z
+ed39ba9c7f97ac7fc47e8036561e5ffb
+2009-08-31T00:28:14.597394Z
+166
+ptribug
+
+_vti_cnf
+dir
+
+class.template.js.asp
+file
+
+
+
+
+2009-08-31T11:58:02.515625Z
+938a582abd268502a21c4662a39e0363
+2009-08-31T00:28:14.597394Z
+166
+ptribug
+
+class.jstemplate.asp
+file
+
+
+
+
+2009-08-31T11:58:02.531250Z
+e70abe8f92a35be583d4d3080fb09907
+2009-08-31T00:28:14.597394Z
+166
+ptribug
+

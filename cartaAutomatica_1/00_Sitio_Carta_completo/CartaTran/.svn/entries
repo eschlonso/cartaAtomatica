@@ -1,0 +1,49 @@
+8
+
+dir
+166
+https://public.quick-media.com:8180/repos/cartaautomatica/trunk/web/CartaTran
+https://public.quick-media.com:8180/repos/cartaautomatica
+
+
+
+2009-08-31T00:28:14.597394Z
+166
+ptribug
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+97846edc-fd9f-480a-911c-c706173cf9f9
+
+styles
+dir
+
+images
+dir
+
+scripts
+dir
+
+Badmail
+dir
+
+_private
+dir
+
+classes
+dir
+
+templates
+dir
+

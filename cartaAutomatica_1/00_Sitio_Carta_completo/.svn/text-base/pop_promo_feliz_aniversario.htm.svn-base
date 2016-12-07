@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Carta Automatica</title>
+<link href="estilos.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<table width="571" border="0" cellpadding="0" cellspacing="5">
+  <tr>
+    <td><img src="images/pop_feliz_aniversario/pop_feliz_aniversario.jpg" width="564" height="346" /></td>
+  </tr>
+  <tr>
+    <td width="565" align="center" valign="top"><img src="images/pop_feliz_aniversario/img_2.gif" width="561" height="277" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="images/pop_feliz_aniversario/segui.gif" width="400" height="19" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/pop_feliz_aniversario/logo_carta.gif" width="166" height="71" /></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#C68D1A">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="2" background="images/px-gris.gif" class="gris"></td>
+  </tr>
+  <tr>
+    <td height="5" class="gris"></td>
+  </tr>
+  <tr>
+    <td class="gris">Si las adhesiones no se registran en el sistema de Tarjeta Autom&aacute;tica antes que se genere el cargo de renovaci&oacute;n. el mismo deber&aacute;n abonarlo, solicitando una vez ingresados los d&eacute;bitos, la bonificaci&oacute;n de &eacute;ste. Est&aacute;n exentos de este cargo los clientes del Grupo Dorado. <br />
+    (1) La bonificaci&oacute;n aplica a partir de la vigencia de la nueva modalidad de facturaci&oacute;n del cargo. (2) Para tarjetas nuevas y renovaciones que vencen a partir del 01/01/08.</td>
+  </tr>
+</table>
+</body>
+</html>

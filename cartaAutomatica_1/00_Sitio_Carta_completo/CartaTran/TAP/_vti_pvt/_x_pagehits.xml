@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="apr 2005" total="132">
+<item str="Default.htm" cnt="24" />
+<item str="InBajo.htm" cnt="23" />
+<item str="INEncabezado.htm" cnt="23" />
+<item str="index.html" cnt="19" />
+<item str="Validacion.asp" cnt="12" />
+<item str="Consumos.htm" cnt="8" />
+<item str="INMain.htm" cnt="5" />
+<item str="Vencimientos.htm" cnt="5" />
+<item str="Limites.htm" cnt="4" />
+<item str="Simulador.htm" cnt="4" />
+<item str="simulador_Eval.htm" cnt="4" />
+<item str="Validacion.htm" cnt="1" />
+</month>
+<month val="may 2005" total="2902">
+<item str="Default.htm" cnt="487" />
+<item str="inbajo.htm" cnt="431" />
+<item str="INEncabezado.htm" cnt="425" />
+<item str="Simulador.asp" cnt="351" />
+<item str="Vencimientos.asp" cnt="241" />
+<item str="Consumos.asp" cnt="230" />
+<item str="Limites.asp" cnt="156" />
+<item str="Simulador_Eval.asp" cnt="132" />
+<item str="Index.html" cnt="111" />
+<item str="Password.asp" cnt="109" />
+<item str="INMain.asp" cnt="99" />
+<item str="Validacion.ASP" cnt="67" />
+<item str="ventadirecta.htm" cnt="15" />
+<item str="Limites.htm" cnt="10" />
+<item str="INMain.htm" cnt="8" />
+<item str="FunctionesRemotas.asp" cnt="8" />
+<item str="simulador_Eval.htm" cnt="7" />
+<item str="Consumos.htm" cnt="7" />
+<item str="Simulador.htm" cnt="4" />
+<item str="Vencimientos.htm" cnt="3" />
+<item str="Consumos_copy(1).asp" cnt="1" />
+</month>
+<month val="jun 2005" total="9">
+<item str="test/hola.txt" cnt="5" />
+<item str="Index.html" cnt="4" />
+</month>
+</usagedata>

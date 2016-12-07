@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="jan 2005" total="819">
+<item str="default.asp" cnt="556" />
+<item str="home.asp" cnt="110" />
+<item str="simulador.asp" cnt="69" />
+<item str="popup_ComercioDetalle.asp" cnt="20" />
+<item str="notas/apuesta.htm" cnt="16" />
+<item str="notas/notapatagonico.htm" cnt="13" />
+<item str="notas/el_chubut_190904.htm" cnt="12" />
+<item str="notas/el_chubut_030904.htm" cnt="8" />
+<item str="login_error.asp" cnt="5" />
+<item str="site/Default.htm" cnt="4" />
+<item str="Default.htm" cnt="3" />
+<item str="resumen_cuenta.asp" cnt="3" />
+</month>
+<month val="feb 2005" total="2584">
+<item str="default.asp" cnt="1723" />
+<item str="home.asp" cnt="375" />
+<item str="simulador.asp" cnt="78" />
+<item str="login_error.asp" cnt="78" />
+<item str="Cambio_password.asp" cnt="72" />
+<item str="resumen_cuenta.asp" cnt="56" />
+<item str="sendmail.asp" cnt="48" />
+<item str="popup_comercios_liquidacion_detalle.asp" cnt="46" />
+<item str="popup_ComercioDetalle.asp" cnt="37" />
+<item str="notas/el_chubut_030904.htm" cnt="18" />
+<item str="notas/el_chubut_190904.htm" cnt="13" />
+<item str="notas/notapatagonico.htm" cnt="10" />
+<item str="notas/apuesta.htm" cnt="9" />
+<item str="notas/Solidaria_05_07_2002.htm" cnt="8" />
+<item str="acuerdo_usuario.htm" cnt="7" />
+<item str="notas/Ventaja_10_09_2002.htm" cnt="6" />
+</month>
+<month val="mar 2005" total="422">
+<item str="default.asp" cnt="279" />
+<item str="home.asp" cnt="78" />
+<item str="resumen_cuenta.asp" cnt="33" />
+<item str="login_error.asp" cnt="15" />
+<item str="simulador.asp" cnt="8" />
+<item str="popup_comercios_liquidacion_detalle.asp" cnt="4" />
+<item str="notas/apuesta.htm" cnt="1" />
+<item str="notas/notapatagonico.htm" cnt="1" />
+<item str="notas/el_chubut_190904.htm" cnt="1" />
+<item str="notas/el_chubut_030904.htm" cnt="1" />
+<item str="notas/Ventaja_10_09_2002.htm" cnt="1" />
+</month>
+<month val="jun 2005" total="37">
+<item str="PopUpventadirecta.htm" cnt="20" />
+<item str="home.asp" cnt="15" />
+<item str="PopupImagenDerecha.htm" cnt="1" />
+<item str="default.asp" cnt="1" />
+</month>
+<month val="jul 2005" total="138">
+<item str="PopUpventadirecta.htm" cnt="41" />
+<item str="default.asp" cnt="37" />
+<item str="home.asp" cnt="36" />
+<item str="PopupImagenDerecha.htm" cnt="17" />
+<item str="resumen_cuenta.asp" cnt="4" />
+<item str="login_error.asp" cnt="3" />
+</month>
+</usagedata>

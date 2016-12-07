@@ -1,0 +1,896 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Carta Automatica</title>
+<link href="estilos.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<table width="490" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="right"></td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="20" class="titulos">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="222" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="20">&nbsp;</td>
+            <td height="20" class="titulos"><strong>Ganadores Promoci&oacute;n D&iacute;a del Ni&ntilde;o</strong></td>
+          </tr>
+          <tr>
+            <td valign="top">&nbsp;</td>
+            <td height="20" align="left" class="gris2"><img src="images/px-gris.gif" width="100%" height="1" /></td>
+          </tr>
+          <tr>
+            <td valign="top">&nbsp;</td>
+            <td align="left" class="gris2"><table border="1" cellpadding="2" cellspacing="0" bordercolor="#0472CD">
+              <col width="80" span="3" />
+              <col width="157" />
+              <col width="92" />
+              <tr height="17">
+                <td width="80" height="17" align="center" bgcolor="#189AD8" class="negro"><strong>Socio</strong></td>
+                <td width="80" align="center" bgcolor="#189AD8" class="negro"><strong>Sucursal</strong></td>
+                <td width="80" align="center" bgcolor="#189AD8" class="negro"><strong>DNI</strong></td>
+                <td width="157" align="center" bgcolor="#189AD8" class="negro"><strong>Nombre y    apellido</strong></td>
+                <td width="92" align="center" bgcolor="#189AD8" class="negro"><strong>Premio</strong></td>
+              </tr>
+              <tr height="27">
+                <td height="27" align="center" class="negro">9038841</td>
+                <td class="negro">Bariloche</td>
+                <td align="right" class="negro">21063601</td>
+                <td class="negro">Friedich Emilio</td>
+                <td width="92" class="negro">Peliculas DVD</td>
+              </tr>
+              <tr height="24">
+                <td height="24" align="center" class="negro">9033065</td>
+                <td class="negro">Bariloche</td>
+                <td align="right" class="negro">10006680</td>
+                <td class="negro">Reyes Marcial</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="22">
+                <td height="22" align="center" class="negro">9042108</td>
+                <td class="negro">Bariloche</td>
+                <td align="right" class="negro">31943062</td>
+                <td class="negro">Diaz Carlos&nbsp;</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9045916</td>
+                <td class="negro">Bariloche</td>
+                <td align="right" class="negro">14245723</td>
+                <td class="negro">Millaqueo Sixto</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9033881</td>
+                <td class="negro">Bariloche</td>
+                <td align="right" class="negro">28932800</td>
+                <td class="negro">Oyarso Reyes Diego</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9043460</td>
+                <td class="negro">Bariloche</td>
+                <td align="right" class="negro">14759761</td>
+                <td class="negro">Citta Josefina</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">2003169</td>
+                <td class="negro">BB</td>
+                <td align="right" class="negro">16922003</td>
+                <td class="negro">Cruz Estela</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">2015400</td>
+                <td class="negro">BB</td>
+                <td align="right" class="negro">92949940</td>
+                <td class="negro">Poblete Jose</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="16">
+                <td height="16" align="center" class="negro">9012238</td>
+                <td class="negro">BB</td>
+                <td align="right" class="negro">16068006</td>
+                <td class="negro">Gambra Jorge</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9037570</td>
+                <td class="negro">BB</td>
+                <td align="right" class="negro">92379463</td>
+                <td class="negro">Bustamante Silvia</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8024164</td>
+                <td class="negro">BB</td>
+                <td align="right" class="negro">16355590</td>
+                <td class="negro">Esmoli Nancy</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">2006880</td>
+                <td class="negro">BB</td>
+                <td align="right" class="negro">1175520</td>
+                <td class="negro">Estermann Maria</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">2008630</td>
+                <td class="negro">BB</td>
+                <td align="right" class="negro">1439471</td>
+                <td class="negro">Ortiz de Rosas Nelby</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9050409</td>
+                <td class="negro">Caleta</td>
+                <td align="right" class="negro">10107762</td>
+                <td class="negro">Aquino Amalia</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8026166</td>
+                <td class="negro">Caleta</td>
+                <td align="right" class="negro">26324170</td>
+                <td class="negro">Arias Maria Laura</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9053199</td>
+                <td class="negro">Choele</td>
+                <td align="right" class="negro">27883734</td>
+                <td class="negro">Villasuso Veronica</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9038261</td>
+                <td class="negro">Choele</td>
+                <td align="right" class="negro">13723935</td>
+                <td class="negro">De la Canal Nelida</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8016307</td>
+                <td class="negro">Choele</td>
+                <td align="right" class="negro">93771158</td>
+                <td class="negro">Silva Valdebenito    Rosa</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9021345</td>
+                <td class="negro">Choele</td>
+                <td align="right" class="negro">13244688</td>
+                <td class="negro">Gonzalez Marta</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3500358</td>
+                <td class="negro">Choele</td>
+                <td align="right" class="negro">7396302</td>
+                <td class="negro">Gomez Francisco</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9025522</td>
+                <td class="negro">Choele</td>
+                <td align="right" class="negro">20124067</td>
+                <td class="negro">Martinez Osvaldo</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9048394</td>
+                <td class="negro">Cipolletti</td>
+                <td align="right" class="negro">92569902</td>
+                <td class="negro">Manriquez Maria    Nieves</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9007995</td>
+                <td class="negro">Cipolletti</td>
+                <td align="right" class="negro">23427389</td>
+                <td class="negro">Esparza Rafael&nbsp;</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9009567</td>
+                <td class="negro">Cipolletti</td>
+                <td align="right" class="negro">92852717</td>
+                <td class="negro">Vivanco German</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9046471</td>
+                <td class="negro">Cipolletti</td>
+                <td align="right" class="negro">26525960</td>
+                <td class="negro">Bravo Carlos</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3104532</td>
+                <td class="negro">Cipolletti</td>
+                <td align="right" class="negro">23789048</td>
+                <td class="negro">Fuentes Nestor</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3107110</td>
+                <td class="negro">Cipolletti</td>
+                <td align="right" class="negro">17644069</td>
+                <td class="negro">Regulsky Alejandra</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9048690</td>
+                <td class="negro">Cipolletti</td>
+                <td align="right" class="negro">92662131</td>
+                <td class="negro">Manriquez Florisa</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3103636</td>
+                <td class="negro">Cipolletti</td>
+                <td align="right" class="negro">92844728</td>
+                <td class="negro">Conejeros Aburto    Susana</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9023569</td>
+                <td class="negro">Comodoro</td>
+                <td align="right" class="negro">17729253</td>
+                <td class="negro">Rieuqelme Carlos</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9009462</td>
+                <td class="negro">Comodoro</td>
+                <td align="right" class="negro">28636805</td>
+                <td class="negro">Bazan Pablo&nbsp;</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9043687</td>
+                <td class="negro">Comodoro</td>
+                <td align="right" class="negro">30955120</td>
+                <td class="negro">Vaccarini&nbsp; Tatiana</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8033936</td>
+                <td class="negro">Comodoro</td>
+                <td align="right" class="negro">18634498</td>
+                <td class="negro">Avenda&ntilde;o Hector</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8035036</td>
+                <td class="negro">Comodoro</td>
+                <td align="right" class="negro">21586239</td>
+                <td class="negro">Romero Iris</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">7005375</td>
+                <td class="negro">Comodoro</td>
+                <td align="right" class="negro">11518631</td>
+                <td class="negro">Villaroel Ernesto</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9022095</td>
+                <td class="negro">Comodoro</td>
+                <td align="right" class="negro">24377150</td>
+                <td class="negro">Quiroga Walter</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">7008478</td>
+                <td class="negro">Comodoro</td>
+                <td align="right" class="negro">6554676</td>
+                <td class="negro">Romero Cecilia</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8033932</td>
+                <td class="negro">Comodoro</td>
+                <td align="right" class="negro">17129412</td>
+                <td class="negro">Pacheco Nini</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8036118</td>
+                <td class="negro">Comodoro</td>
+                <td align="right" class="negro">11680625</td>
+                <td class="negro">Sandoval Ester</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9013711</td>
+                <td class="negro">Comodoro</td>
+                <td align="right" class="negro">29858825</td>
+                <td class="negro">Rodriguez Diego</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">7005730</td>
+                <td class="negro">Comodoro</td>
+                <td align="right" class="negro">10783351</td>
+                <td class="negro">Raggio Alicia</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9045742</td>
+                <td class="negro">LP</td>
+                <td align="right" class="negro">23950142</td>
+                <td class="negro">Fernandez Viviana</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9038517</td>
+                <td class="negro">LP</td>
+                <td align="right" class="negro">26350878</td>
+                <td class="negro">Escalante Diego</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9008604</td>
+                <td class="negro">LP</td>
+                <td align="right" class="negro">23368281</td>
+                <td class="negro">Escobar Cesar</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8028214</td>
+                <td class="negro">LP</td>
+                <td align="right" class="negro">14699706</td>
+                <td class="negro">Argara&ntilde;az Silvia</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">1104243</td>
+                <td class="negro">LP</td>
+                <td align="right" class="negro">11359314</td>
+                <td class="negro">Sessa Elsa</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">1120950</td>
+                <td class="negro">LP</td>
+                <td align="right" class="negro">14861033</td>
+                <td class="negro">Farias Monica</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8003779</td>
+                <td class="negro">LP</td>
+                <td align="right" class="negro">7827841</td>
+                <td class="negro">Arreigada Marcelino</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">1103350</td>
+                <td class="negro">LP</td>
+                <td align="right" class="negro">14796937</td>
+                <td class="negro">Banegas Carlos</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8001436</td>
+                <td class="negro">LP</td>
+                <td align="right" class="negro">6495479</td>
+                <td class="negro">Bauer Graciela</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9022192</td>
+                <td class="negro">LP</td>
+                <td align="right" class="negro">4646239</td>
+                <td class="negro">Altamiranda Alberto</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9011539</td>
+                <td class="negro">LP</td>
+                <td align="right" class="negro">22798866</td>
+                <td class="negro">Bony Federica</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">1106011</td>
+                <td class="negro">LP</td>
+                <td align="right" class="negro">5277401</td>
+                <td class="negro">Meza Catalina</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9002648</td>
+                <td class="negro">LP</td>
+                <td align="right" class="negro">13909518</td>
+                <td class="negro">Schuch Rolf</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9051935</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">30854460</td>
+                <td class="negro">Romero Martin</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8023587</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">5374945</td>
+                <td class="negro">Bertini Ernesto</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9048481</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">28485536</td>
+                <td class="negro">Cayul Francisco&nbsp;</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9025497</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">92853638</td>
+                <td class="negro">Coronado Jorge</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8012381</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">14598781</td>
+                <td class="negro">Quereda Jose</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3021042</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">18428495</td>
+                <td class="negro">Alegria Marcela</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3018879</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">3940737</td>
+                <td class="negro">Fantini Lidia</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9035015</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">14299997</td>
+                <td class="negro">Arevalo Hebert&nbsp;</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9037833</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">92883617</td>
+                <td class="negro">Albarram Veronica</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9041785</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">5948446</td>
+                <td class="negro">Pailaleo Eugenia</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9004395</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">14401481</td>
+                <td class="negro">Tornati Claudia</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9045306</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">32650620</td>
+                <td class="negro">Luna Fabio&nbsp;</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9015881</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">92757286</td>
+                <td class="negro">Toto Jose</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9022700</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">25374356</td>
+                <td class="negro">Porro Andres</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3016829</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">10206264</td>
+                <td class="negro">Mamani Cecilio</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3021071</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">12631515</td>
+                <td class="negro">Bernabey Victor</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3020071</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">21560409</td>
+                <td class="negro">Gonzalez Jose</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3011906</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">5180270</td>
+                <td class="negro">Formigo Carlos</td>
+                <td width="92" class="negro">Playstation</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8015126</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">8311057</td>
+                <td class="negro">Maggini Francisco</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3015225</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">3940747</td>
+                <td class="negro">Zuniga Sara</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3011547</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">23427247</td>
+                <td class="negro">Bustamante Alicia</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3015988</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">22473942</td>
+                <td class="negro">Alarcon Rosana</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8012137</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">25139583</td>
+                <td class="negro">Guento Gabriela</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3010736</td>
+                <td class="negro">NQN</td>
+                <td align="right" class="negro">24747569</td>
+                <td class="negro">Sanhueza Jorge</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9036912</td>
+                <td class="negro">Pta. Alta</td>
+                <td align="right" class="negro">27771101</td>
+                <td class="negro">Lopez Eduardo&nbsp;</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9040011</td>
+                <td class="negro">Pta. Alta</td>
+                <td align="right" class="negro">5470895</td>
+                <td class="negro">Stahlschmidt Sonia</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9028419</td>
+                <td class="negro">Pto. Madryn</td>
+                <td align="right" class="negro">26077701</td>
+                <td class="negro">Gimenez Natalia</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9048957</td>
+                <td class="negro">Pto. Madryn</td>
+                <td align="right" class="negro">20304792</td>
+                <td class="negro">Fernandez Jorge</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9014130</td>
+                <td class="negro">Pto. Madryn</td>
+                <td align="right" class="negro">21979478</td>
+                <td class="negro">Llampa Oscar</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9005500</td>
+                <td class="negro">Pto. Madryn</td>
+                <td align="right" class="negro">21099107</td>
+                <td class="negro">Aybar Clemente</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9008288</td>
+                <td class="negro">Pto. Madryn</td>
+                <td align="right" class="negro">10677926</td>
+                <td class="negro">Antin Miguel</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9036348</td>
+                <td class="negro">Pto. Madryn</td>
+                <td align="right" class="negro">16012174</td>
+                <td class="negro">Marcial Gladys</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9038265</td>
+                <td class="negro">Roca</td>
+                <td align="right" class="negro">30841242</td>
+                <td class="negro">Acu&ntilde;a Domingo</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3205104</td>
+                <td class="negro">Roca</td>
+                <td align="right" class="negro">20934389</td>
+                <td class="negro">Mu&ntilde;oz Gabriel</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3201851</td>
+                <td height="17" class="negro">Roca</td>
+                <td height="17" align="right" class="negro">12680709</td>
+                <td height="17" class="negro">Jaramillo Teodoro    Miguel</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9026183</td>
+                <td class="negro">Roca</td>
+                <td align="right" class="negro">23034155</td>
+                <td class="negro">Juarez Nanci</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9015602</td>
+                <td class="negro">Roca</td>
+                <td align="right" class="negro">2439221</td>
+                <td class="negro">Barros Gustavo</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3205275</td>
+                <td class="negro">Roca</td>
+                <td align="right" class="negro">13779124</td>
+                <td class="negro">Garrido Julio</td>
+                <td width="92" class="negro">Playstation</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9045625</td>
+                <td class="negro">Roca</td>
+                <td align="right" class="negro">26242599</td>
+                <td class="negro">Lobo Adriana</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9052514</td>
+                <td class="negro">Roca</td>
+                <td align="right" class="negro">29852825</td>
+                <td class="negro">Riquelme Juan&nbsp;</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3204412</td>
+                <td class="negro">Roca</td>
+                <td align="right" class="negro">92855938</td>
+                <td class="negro">Loyola Urrutia    Leopoldo</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9003230</td>
+                <td class="negro">Salta</td>
+                <td align="right" class="negro">22146893</td>
+                <td class="negro">Gomez Patricia&nbsp;</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">6009321</td>
+                <td class="negro">Salta</td>
+                <td align="right" class="negro">25218551</td>
+                <td class="negro">Chica Ariel</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9023260</td>
+                <td class="negro">Salta</td>
+                <td align="right" class="negro">2255413</td>
+                <td class="negro">Taritolay Silvia</td>
+                <td width="92" class="negro">Playstation</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9009287</td>
+                <td class="negro">Salta</td>
+                <td align="right" class="negro">23953076</td>
+                <td class="negro">Soloaga Contanza</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">6015511</td>
+                <td class="negro">Salta</td>
+                <td align="right" class="negro">17873402</td>
+                <td class="negro">Massola Ana</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8038347</td>
+                <td class="negro">Trelew</td>
+                <td align="right" class="negro">14757444</td>
+                <td class="negro">Herrera Aurora</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8025664</td>
+                <td class="negro">Trelew</td>
+                <td align="right" class="negro">14281679</td>
+                <td class="negro">Alderete Romirio</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9048982</td>
+                <td class="negro">Tucuman</td>
+                <td align="right" class="negro">26834311</td>
+                <td class="negro">Zelaya Dante</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8036263</td>
+                <td class="negro">Tucuman</td>
+                <td align="right" class="negro">20179280</td>
+                <td class="negro">Caceres Hector</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">4006841</td>
+                <td class="negro">Tucuman</td>
+                <td align="right" class="negro">14660764</td>
+                <td class="negro">Mamani Angel</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9051004</td>
+                <td class="negro">Tucuman</td>
+                <td align="right" class="negro">29135212</td>
+                <td class="negro">Huide Carolina</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">4005254</td>
+                <td class="negro">Tucuman</td>
+                <td align="right" class="negro">13853439</td>
+                <td class="negro">Marquez Ramona</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">4028351</td>
+                <td class="negro">Tucuman</td>
+                <td align="right" class="negro">24584189</td>
+                <td class="negro">Ledda Fabian</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">4019133</td>
+                <td class="negro">Tucuman</td>
+                <td align="right" class="negro">8081392</td>
+                <td class="negro">Navarro Segundo</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8027336</td>
+                <td class="negro">Tucuman</td>
+                <td align="right" class="negro">16450025</td>
+                <td class="negro">Cuello Miguel</td>
+                <td width="92" class="negro">Playstation</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9009852</td>
+                <td class="negro">Tucuman</td>
+                <td align="right" class="negro">4706167</td>
+                <td class="negro">Villagra Adela</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">4008525</td>
+                <td class="negro">Tucuman</td>
+                <td align="right" class="negro">7079637</td>
+                <td class="negro">Leguizamon Antonio</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">8027639</td>
+                <td class="negro">Tucuman</td>
+                <td align="right" class="negro">27575317</td>
+                <td class="negro">Martinez Vanesa</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">4002078</td>
+                <td class="negro">Tucuman</td>
+                <td align="right" class="negro">3616480</td>
+                <td class="negro">Ledesma Selva</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">4028756</td>
+                <td class="negro">Tucuman</td>
+                <td align="right" class="negro">14404071</td>
+                <td class="negro">Isa solano Federico</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9011547</td>
+                <td class="negro">Villa Reguna</td>
+                <td align="right" class="negro">7568103</td>
+                <td class="negro">Ortega Domingo</td>
+                <td width="92" class="negro">Peliculas    DVD</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3400936</td>
+                <td class="negro">Villa Reguna</td>
+                <td align="right" class="negro">93647146</td>
+                <td class="negro">Lagos Filomena</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9002173</td>
+                <td class="negro">Villa Reguna</td>
+                <td align="right" class="negro">29287664</td>
+                <td class="negro">Balboa Anabel</td>
+                <td width="92" class="negro">Playstation</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">9036229</td>
+                <td class="negro">Villa Reguna</td>
+                <td align="right" class="negro">5168593</td>
+                <td class="negro">Dezilio Felix</td>
+                <td class="negro">Pelota</td>
+              </tr>
+              <tr height="17">
+                <td height="17" align="center" class="negro">3400308</td>
+                <td class="negro">Villa Reguna</td>
+                <td align="right" class="negro">22210913</td>
+                <td class="negro">Venegas Monica</td>
+                <td class="negro">Pelota</td>
+              </tr>
+            </table>              
+              </td>
+          </tr>
+
+          <tr>
+            <td>&nbsp;</td>
+            <td height="20" align="left" class="gris2"><img src="images/px-gris.gif" width="100%" height="1" /></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>

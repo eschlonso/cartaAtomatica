@@ -1,0 +1,121 @@
+.bajadasocios {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #00C6FF;
+}
+.forms {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #666666;
+}
+.asocios {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+}
+.hometexto {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #666666;
+	line-height: 14px;
+}
+.comerciosad {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	line-height: 13px;
+	color: #000000;
+}
+.promocionestexto {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	line-height: 13px;
+	color: #FFFFFF;
+}
+.subtitulos {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #226CC4;
+	text-decoration: none;
+}
+.total {
+	font-family: Verdana;
+	font-size: 9px;
+	color: #000000;
+}
+.texto {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #8D8D8D;
+	text-decoration: none;
+	line-height: 17px;
+}
+.destacados {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #226CC4;
+}
+
+.resumencta {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+
+.resumencta1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+}
+
+/* Agregados por Paul */
+form {
+	margin:           0px;
+	padding:          0px;
+}
+
+.grilla {
+	background-color: #DDEEFF;
+	font-family:      Arial, Helvetica, sans-serif;
+	font-size:        9px;
+	color:            #006699;
+}
+
+.comerciotexto {
+	font-family:      Verdana, Arial, Helvetica, sans-serif;
+	font-size:        8px;
+	color:            #666666;
+}
+
+.image {
+	border-width:     0px;
+}
+
+.titulotabla {
+	font-family:      Verdana, Arial, Helvetica, sans-serif;
+	font-size:        12px;
+	font-weight:      bold;
+	color:            #3241A1;
+}
+
+.tituloarea {
+	background-color:    #333388;
+	border-style:        solid;
+	border-color:        #333333;
+	border-width:        0px;
+	border-bottom-width: 1px;
+	text-align:          center;
+	padding:             3px;
+	font-family:         Verdana, Arial, Helvetica, sans-serif;
+	font-size:           10px;
+	font-weight:         bold;
+	letter-spacing:      -1px;
+	color:               #FFFFFF;
+}
+
+.datossocio {
+	font-family:      Arial, Helvetica, sans-serif;
+	font-size:        12px;
+	font-weight:      bold;
+	color:            #333333;
+}
+.popup       { color: #0000FF; cursor: hand; }

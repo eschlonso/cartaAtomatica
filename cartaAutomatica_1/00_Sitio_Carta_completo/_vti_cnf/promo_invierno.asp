@@ -1,0 +1,20 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|02 May 2008 20:52:30 -0000
+vti_extenderversion:SR|6.0.2.6551
+vti_author:SR|TARJETA\\alemanh
+vti_modifiedby:SR|TARJETA\\alemanh
+vti_timecreated:TR|02 May 2008 20:52:30 -0000
+vti_cacheddtm:TX|02 May 2008 20:52:30 -0000
+vti_filesize:IR|40358
+vti_cachedtitle:SR|Carta Automatica
+vti_cachedbodystyle:SR|<body>
+vti_cachedlinkinfo:VX|S|images/fondo.gif Q|estilos.css S|Scripts/AC_RunActiveContent.js S|images/left.gif D|clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 D|http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab S|images/top.swf S|images/top.swf D|clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 D|http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab S|images/tit_promo_invierno.swf S|images/tit_promo_invierno.swf S|images/promo_invierno.gif S|images/logo_american.gif H|ofertas_carta.asp S|images/logo_compre_facil.gif S|images/logo_by_deep.gif S|images/logo_mcgregor.gif S|images/logo_tobacco.gif S|images/logo_ludica.gif S|images/logo_casa_martinez.gif S|images/logo_ferracioli.gif H|ofertas_carta.asp S|images/logo_compre_facil.gif S|images/logo_maua.gif H|ofertas_carta.asp S|images/logo_compre_facil.gif S|images/logo_suomar.gif S|images/logo_stadium.gif S|images/logo_carrusel.gif S|images/logo_planeta_sol.gif S|images/logo_calzados_ariel.gif S|images/logo_veo_veo.gif S|images/logo_oxido.gif S|images/logo_paco_garcia.gif S|images/logo_gimos.gif S|images/logo_simbolo.gif S|images/logo_paul_carty.gif S|images/logo_tijuana.gif H|ofertas_carta.asp S|images/logo_compre_facil.gif S|images/logo_la_liquidadora.gif H|ofertas_carta.asp S|images/logo_compre_facil.gif H|ofertas_carta.asp S|images/logo_compre_facil.gif S|images/logo_eikeel.gif H|ofertas_carta.asp S|images/logo_compre_facil.gif S|images/logo_aventura.gif S|images/logo_sprint.gif S|images/logo_exclusive.gif S|images/right.gif S|images/corner_left.gif S|images/down.gif S|images/down.gif S|images/corner_right.gif H|http://www.quick-media.com K|promo_invierno.asp
+vti_cachedsvcrellinks:VX|FSUS|images/fondo.gif FQUS|estilos.css FSUS|Scripts/AC_RunActiveContent.js FSUS|images/left.gif NDUS|clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 NDHS|http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab FSUS|images/top.swf FSUS|images/top.swf NDUS|clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 NDHS|http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab FSUS|images/tit_promo_invierno.swf FSUS|images/tit_promo_invierno.swf FSUS|images/promo_invierno.gif FSUS|images/logo_american.gif FHUS|ofertas_carta.asp FSUS|images/logo_compre_facil.gif FSUS|images/logo_by_deep.gif FSUS|images/logo_mcgregor.gif FSUS|images/logo_tobacco.gif FSUS|images/logo_ludica.gif FSUS|images/logo_casa_martinez.gif FSUS|images/logo_ferracioli.gif FHUS|ofertas_carta.asp FSUS|images/logo_compre_facil.gif FSUS|images/logo_maua.gif FHUS|ofertas_carta.asp FSUS|images/logo_compre_facil.gif FSUS|images/logo_suomar.gif FSUS|images/logo_stadium.gif FSUS|images/logo_carrusel.gif FSUS|images/logo_planeta_sol.gif FSUS|images/logo_calzados_ariel.gif FSUS|images/logo_veo_veo.gif FSUS|images/logo_oxido.gif FSUS|images/logo_paco_garcia.gif FSUS|images/logo_gimos.gif FSUS|images/logo_simbolo.gif FSUS|images/logo_paul_carty.gif FSUS|images/logo_tijuana.gif FHUS|ofertas_carta.asp FSUS|images/logo_compre_facil.gif FSUS|images/logo_la_liquidadora.gif FHUS|ofertas_carta.asp FSUS|images/logo_compre_facil.gif FHUS|ofertas_carta.asp FSUS|images/logo_compre_facil.gif FSUS|images/logo_eikeel.gif FHUS|ofertas_carta.asp FSUS|images/logo_compre_facil.gif FSUS|images/logo_aventura.gif FSUS|images/logo_sprint.gif FSUS|images/logo_exclusive.gif FSUS|images/right.gif FSUS|images/corner_left.gif FSUS|images/down.gif FSUS|images/down.gif FSUS|images/corner_right.gif NHHS|http://www.quick-media.com FKUS|promo_invierno.asp
+vti_cachedneedsrewrite:BR|false
+vti_cachedhasbots:BR|false
+vti_cachedhastheme:BR|false
+vti_cachedhasborder:BR|false
+vti_metatags:VR|HTTP-EQUIV=Content-Type text/html;\\ charset=iso-8859-1
+vti_charset:SR|iso-8859-1
+vti_title:SR|Carta Automatica
+vti_backlinkinfo:VX|promo_invierno.asp

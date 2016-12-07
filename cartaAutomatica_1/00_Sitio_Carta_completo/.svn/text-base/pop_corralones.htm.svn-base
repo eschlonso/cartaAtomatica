@@ -1,0 +1,559 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Carta Automatica</title>
+<link href="estilos.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<table width="480" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="right"></td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="20" class="titulos">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="222" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="20" class="titulos"><table width="50%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="7%"><img src="images/flecha2.gif" width="19" height="17" /></td>
+                  <td width="93%"><strong>Locales adheridos <span class="celeste"></span></strong></td>
+                </tr>
+              </table>              </td>
+          </tr>
+          <tr>
+            <td height="20" align="left" class="gris2"><br />
+              <table width="450"  border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">HIPER TEHUELCHE</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Bahia Blanca</td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+                </tr>
+              <tr>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">HIPER TEHUELCHE</td>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">Bariloche </td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td width="3%" bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td width="61%" bgcolor="#BFEDF9" class="negroch">HIPER TEHUELCHE</td>
+                <td width="3%" bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td width="33%" bgcolor="#BFEDF9" class="negroch">Caleta Olivia </td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">San Jorge S.R.L</td>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">Choele Choel </td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CORRALON HERNALZ</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Choele Choel</td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">CORRALON CORONA</td>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">Choele Choel</td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">ROSSO Y CIA S.R.L</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Choele Choel</td>
+                </tr>
+              <tr>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">PORTAL MATERIALES S.A.</td>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">Choele Choel</td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#BFEDF9">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">PAOGAS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Cipolletti</td>
+                </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">POLIMAT SRL</td>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">Cipolletti</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CORRALON VICENTINO</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Cipolletti</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">CORRALON YACOPINO S.A.</td>
+                <td bgcolor="#DAF4FB" class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">Cipolletti</td>
+                </tr>
+
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CORRALON EL MAPUCHE</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Cipolletti</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">HIPER TEHUELCHE</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Comodoro Rivadavia </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CASA TENTONI</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">CASA BULUS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CARNEVALI MATER.P/CONSTRUCC.</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">CASA CARLOS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">IMACOVA S.A.</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LAS QUINTAS</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">ENEYPA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">AIXA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">EL CONDOR</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">EL MIRADOR</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LA PLATA CERAMICOS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">FERRETERIA AEROPUERTO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">La Plata</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">LA PLATA CERAMICOS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">La Plata</td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">HIPER TEHUELCHE </td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Puerto Madryn </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">EASY</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Neuquen </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">HIPER TEHUELCHE</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Punta Alta</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">PANCANI&nbsp;&nbsp; </td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Regina </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">PATAGONIA MATERIALES&nbsp; </td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Regina </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">FERRETERIA ANTON</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Regina </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">CORRALON AVENIDA</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Regina </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">PERAZZOLI  HERMANOS</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Regina </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">LA CASA DEL ALBA&Ntilde;IL</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Regina </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">FERRASER</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Regina </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">HIPER TEHUELCHE </td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Rio Gallegos</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">EASY </td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Roca </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Ductos</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Salta </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">MADERAS INDEPENDENCIA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Salta </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">CORRALON EL OBRERO</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Salta </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">CORRALON MANUEL ALVARADO S.R.L.</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Salta </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">CORRALON EL SOL</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Salta </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">SUPERMAT S.A.C.I.F.I.A (Corralon El Amigo) </td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Salta </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">ROSSO MATERIALES </td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Salta </td>
+              </tr>
+              <tr>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">ABERTURAS AMERICA</td>
+                <td bgcolor="#BFEDF9" class="negro">&nbsp;</td>
+                <td bgcolor="#BFEDF9" class="negroch">Salta </td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">TODO ALAMBRE</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Salta </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#BFEDF9">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Ameghino SRL Maderas</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Trelew</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Vial Servicios S.A</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Trelew</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#BFEDF9">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">US MATERIALES</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Trelew</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td bgcolor="#DAF4FB" class="negroch">OSCAR OTERO E HIJOS SRL</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Trelew</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#BFEDF9">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">CORRALON FERNANDES</td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Trelew</td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr bgcolor="#DAF4FB">
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Easy </td>
+                <td class="negro">&nbsp;</td>
+                <td class="negroch">Tucuman </td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+              <tr class="negro">
+                <td height="1" colspan="4"></td>
+              </tr>
+            </table>
+              <br /></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>

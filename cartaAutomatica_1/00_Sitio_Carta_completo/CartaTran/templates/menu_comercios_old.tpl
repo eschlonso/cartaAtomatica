@@ -1,0 +1,23 @@
+<table width="150" border="0" cellpadding="0" cellspacing="0">
+	<tr bgcolor="#3241A1">
+		<td colspan="2"><p class="tituloarea">AREA DE COMERCIOS</p></td>
+	</tr>
+	<tr bgcolor="#3241A1">
+		<td width="21" height="35">&nbsp;</td>
+		<td height="35" class="bajadasocios">Bienvenido<br>%userName% %userLastName%</td>
+	</tr>
+</table>
+
+<UL id="menu_socios" style="position: relative;">
+
+	<LI style="background-color: #CAE2F2;"><IMG src="images/bullet_menu_exclusivo.gif" width="5" height="7" vspace="2" hspace="4" border="0"/><A href="default.asp?strSection=comercios&strContentType=liquidaciones"   class="itemMenuExclusivo">Liquidaciones</A></LI>
+	<LI style="background-color: #CAE2F2;"><IMG src="images/bullet_menu_exclusivo.gif" width="5" height="7" vspace="2" hspace="4" border="0"/><A href="default.asp?strSection=comercios&strContentType=planes_vigentes" class="itemMenuExclusivo">Planes Vigentes</A></LI>
+	<LI style="background-color: #CAE2F2;"><IMG src="images/bullet_menu_exclusivo.gif" width="5" height="7" vspace="2" hspace="4" border="0"/><A href="default.asp?strSection=comercios&strContentType=cambio_password" class="itemMenuExclusivo">Cambio de Contraseña</A></LI>
+
+</UL>
+
+<table width="150" height="25" cellpadding="0" cellspacing="0" border="0">
+	<tr bgcolor="#3241A1">
+		<td height="25" align="center" valign="middle"><a href="logout.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image42','','images/bot_logoff_on.gif',1)"><img src="images/bot_logoff.gif" name="Image42" width="135" height="16" border="0"></a></td>
+	</tr>
+</table>

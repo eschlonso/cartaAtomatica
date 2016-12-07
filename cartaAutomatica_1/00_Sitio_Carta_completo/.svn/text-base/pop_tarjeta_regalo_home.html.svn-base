@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Carta Automatica</title>
+<link href="estilos.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+</head>
+
+<body topmargin="5" bottommargin="0" leftmargin="0" rightmargin="0">
+<table width="357" height="255" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="357" height="255" align="center"><a href="obtene.asp" target="_blank"><img src="images/regalo_mouse_pop.jpg" width="357" height="284" border="0"/></a></td>
+  </tr>
+  <tr></tr>
+</table>
+</body>
+</html>
