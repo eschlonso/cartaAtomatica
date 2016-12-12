@@ -3,10 +3,7 @@
 <html>
 <head>
 <title>Carta Automatica</title>
-<!--
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
--->
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <style type="text/css">
 <!--
 body {
@@ -130,98 +127,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <td width="1" height="1"></td>
                         <td width="547" valign="top"><table width="547" border="0" cellspacing="0" cellpadding="0">
                           <tr>
-                            <td height="1" align="center" ></td>
+                            <td width="547" height="1" align="center" ></td>
                           </tr>
                           <tr>
-                            <td align="center" id="bienvenida3"><img src="images/landingPrestamos.jpg"></td>
+                            <td align="center"><img src="images/titSeguros.png" width="550" height="38" border="0" style="margin-bottom:50px;"></td>
                           </tr>
                           <tr>
-                            <td align="center"><img src="images/requisitos.jpg" style="margin-top:15px;"></td>
+                            <td align="center"><img src="images/banner-seguros.jpg" border="0" usemap="#Map"></td>
                           </tr>
-                          <tr>
-                            <td align="left" class="negro2" id="bienvenida2"><table width="550" border="0">
-                              <tr>
-                                <th scope="col">&nbsp;</th>
-                                <th align="left" class="negro2" scope="col"><br>
-                                  Si ya ten&eacute;s tu Tarjeta Carta Autom&aacute;tica o Carta Autom&aacute;tica Mastercard te esperamos<br>
-                                  s&oacute;lo con tu documento.<br>
-                                  <br>
-                                  Si a&uacute;n no sos cliente, ac&eacute;rcate con:<br>
-                                  <br>
-                                  <strong>&bull; &Uacute;ltimo recibo de sueldo<br>
-                                  &bull; &Uacute;ltima factura de un servicio<br>
-                                  &bull; DNI, C&eacute;dula del Mercosur o Pasaporte<br>
-                                  &bull; Ingreso m&iacute;nimo bruto: $2.000</strong><br>
-                                  <strong>&bull; Antig&uuml;edad laboral: 6 meses</strong><br>
-                                  <strong>&bull; Edad m&iacute;nima: 21 a&ntilde;os</strong>, desde 18 a&ntilde;os presentando recibo de sueldo.<br>
-                                  <strong>&bull; Edad m&aacute;xima: 82 a&ntilde;os</strong>
-                                </th>
-                                <th align="left" scope="col">&nbsp;</th>
-                              </tr>
-                              <tr>
-                                <td colspan="3">
-                                  <img src="images/ademas.jpg" alt="" style="margin:15px 0 15px 0;">
-                                </td>
-                              </tr>
-                            </table></td>
-                          </tr>
-                          <tr>
-                            <td align="center" id="bienvenida"><table width="550" border="0">
-                              <tr>
-                                <th width="256" valign="top" scope="col"><table width="228" border="0">
-                                  <tr>
-                                    <th height="30" align="left" class="negro2" scope="col"><table width="228" border="0">
-                                      <tr>
-                                        <th width="202" align="left" scope="col" style="padding-top:7px;"><strong>Poseedores de tarjeta de cr&eacute;dito</strong><br>
-                                        <span class="negro2">(deben tener ingresos verificables)</span></th>
-                                      </tr>
-                                    </table></th>
-                                  </tr>
-                                  <tr>
-                                    <td align="left" class="negro2"><p>&bull; &Uacute;ltimo resumen<br>
-                                        &bull; Pl&aacute;stico con 6 meses de antig&uuml;edad</p></td>
-                                  </tr>
-                                </table></th>
-                                <th width="16" valign="top" scope="col"><img src="images/requisitos_prestmos_04.jpg" width="8" height="310"></th>
-                                <th width="228" valign="top" scope="col"><table width="228" border="0">
-                                  
-                                  <tr>
-                                    <td align="left" class="negro2"><p><strong>Trabajadores en relaci&oacute;n de dependencia:</strong><br>
-                                      &bull; &Uacute;ltimo recibo de sueldo.<br>
-                                      <br>
-                                      <strong>Trabajadores aut&oacute;nomos inscriptos en monotributo:</strong><br>
-                                      &bull; &Uacute;ltimo comprobante de pago Monotributo.<br>
-                                      &bull; Formulario 152.<br>
-                                      <br>
-                                      <strong>Trabajadores aut&oacute;nomos inscriptos en Ganancias:</strong><br>
-                                      &bull; &Uacute;ltima declaraci&oacute;n Jurada de Ganancias/Formulario 711.<br>
-                                      &bull; Comprobante de presentaci&oacute;n ante AFIP y comprobante de pago en caso de corresponder.<br>
-                                      <br>
-                                      <strong>Jubilados o pensionados:</strong><br>
-                                      &bull; &Uacute;ltimo recibo de haberes jubilatorios.</p></td>
-                                  </tr>
-                                </table></th>
-                                <th width="27" scope="col">&nbsp;</th>
-                              </tr>
-                            </table></td>
-                          </tr>
-                          
-                          <tr><td align="left" class="gris2" id="bienvenida">
-                           
-(8) OTORGAMIENTO SUJETO A CALIFICACIÓN CREDITICIA Y CONDICIONES DE CONTRATACIÓN DE CORDIAL. EL MONTO DEL PRÉSTAMO, PLAZO, TASA DE INTERÉS Y DEMÁS CONDICIONES, SERÁN ESTABLECIDOS POR CORDIAL EN FUNCIÓN DEL RESULTADO QUE ARROJE LA CALIFICACIÓN CREDITICIA EFECTUADA SOBRE LA BASE DE SUS POLÍTICAS VIGENTES AL MOMENTO DEL OTORGAMIENTO DEL PRÉSTAMO PERSONAL.
-------------------------
+                           <tr>
+                            <td align="left" class="gris2" id="bienvenida">
+                              <p><span lang="ES">
+</span></p></td></tr>
 
-                              </td>
+                            <tr><td align="left" class="gris2" id="bienvenida">
+                              
                           </tr>
-                          
-
-        
-                        
-
+                          <tr>
+                            <td align="left"><blockquote>
+                              <p align="left" class="gris2">&nbsp;</p>
+                            </blockquote></td>
+                          </tr>
                         </table></td>
                         <td width="1" height="1"></td>
                       </tr>
-
                       <tr>
                         <td width="1" height="1" ></td>
                         <td width="547" height="1" ></td>
@@ -252,5 +181,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </table></td>
     </tr>
   </table>
+
+  <map name="Map">
+    <area shape="rect" coords="94,420,188,445" href="http://www.segurosalacarta.com.ar/ca/index.html" target="_blank" alt="Proteccion total">
+    <area shape="rect" coords="365,419,460,444" href="http://www.segurosalacarta.com.ar/ca/hogar.html" target="_blank" alt="Hogar">
+  </map>
 </body>
 </html>

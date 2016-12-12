@@ -3,7 +3,7 @@
 <html>
 <head>
 <title>Carta Automatica</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <style type="text/css">
 <!--
 body {
@@ -39,6 +39,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 .lal {
 	font-size: 10px;
 }
+.textover {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	text-align: left;
+	color: #666;
+}
+.textverb {
+	font-weight: bold;
+}
 -->
 </style>
 <script type="text/javascript">
@@ -68,34 +77,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
  
 
 </script>
-<!-- google analytics code 02-06-2016 -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
- 
-  ga('create', 'UA-42658052-1', 'auto');
-  ga('send', 'pageview');
- 
-</script>
-<!-- end google analytics code -->
 </head>
 
 <body>
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WVX3DM"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WVX3DM');</script>
-<!-- End Google Tag Manager -->
 <table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
     <th valign="top" scope="col"> </th>
-    <th scope="col"><table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+    <th align="center" scope="col"><table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
       <tr>
         <td width="9" background="images/left.gif">&nbsp;</td>
         <td bgcolor="#FFFFFF"><table width="752" border="0" cellspacing="0" cellpadding="0">
@@ -124,21 +112,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <td></td>
                       </tr>
                       <tr>
-                            <td colspan="2" align="center"><img src="images/tit_promociones.jpg" width="548" height="110"></td>
-                          </tr>
-                      <tr>
                         <td width="1" height="1"></td>
                         <td width="547" valign="top"><table width="547" border="0" cellspacing="0" cellpadding="0">
                           <tr>
-                            <td colspan="2" align="center"><img src="images/banner2-interior.jpg" border="0" style="display:block; border:none; padding:0;"></td>
+                            <td width="547" height="1" align="center" ></td>
                           </tr>
                           <tr>
-                            <td colspan="2" align="left" class="gris2" id="bienvenida2" style="padding-top:20px;">
-VIGENTE ENTRE EL 01/12/2016 Y 31/12/2016. SE PODRÁN REALIZAR EXTRACCIONES EN CUALQUIER CAJERO AUTOMÁTICO DE LA RED LINK O BANELCO. MÁXIMO DE EXTRACCIÓN DIARIA SUJETO AL LÍMITE DE ADELANTO OTORGADO. 
-
-                            </td>
+                            <td align="center"><img src="images/tit_quienessomos.jpg" alt="" width="548" height="82"></td>
                           </tr>
-                          
+                          <tr>
+                            <td align="center" class="textover"><table width="550" border="0">
+                              <tr>
+                                <th width="7" scope="col">&nbsp;</th>
+                                <th width="528" align="left" class="negro2" scope="col"><p class="negroch"><strong>Hay sonrisas que guardan Historia</strong><br>
+                                  <br>                                    
+                                  <span class="negro2">En 1995, naci&oacute; Carta Autom&aacute;tica, una tarjeta regional creada con el objetivo de brindar 
+                                  financiaci&oacute;n a las compras de aquellas personas no bancarizadas.</span></p>
+                                  <p class="negro2">                                    Posteriormente, se lanza al mercado la l&iacute;nea de pr&eacute;stamos en efectivo: Pesos Ya, a sola
+                                    firma.<br>
+                                    <br>
+                                    Con 20 sucursales distribuidas estrat&eacute;gicamente en la Patagonia, 2 en el Norte del Pa&iacute;s 
+                                    y m&aacute;s de 60.000 tarjetas activas, en 2008 nos adquiere el Banco Supervielle proyectando 
+                                    as&iacute;, gran crecimiento.<br>
+                                    <br>
+                                    <strong>En el 2013</strong> logramos una alianza estrat&eacute;gica con MasterCard, abriendo puertas con 
+                                    infinidad de oportunidades.<br>
+                                    <br>
+                                    Carta Autom&aacute;tica es un compa&ntilde;ero que te ayuda a hacer tus sue&ntilde;os realidad&hellip; es hoy 
+                                    un pr&eacute;stamo personal a tu alcance y una tarjeta que vos ya conoc&eacute;s y ahora se hizo 
+                                    grande y es &ldquo;MasterCard&rdquo;.</p>
+                                  <p class="negroch">                                    <span class="negro3">Desde hace m&aacute;s de 15 a&ntilde;os Carta Autom&aacute;tica siente lo mismo que vos y piensa como 
+                                    vos y hoy sonr&iacute;e con vos. <br>
+                                    Nos transformamos, cambiamos para acompa&ntilde;arte!! Para que vos crezcas con nosotros, 
+                                    hoy creamos sonrisas que significan mucho. Significan crecimiento, renovaci&oacute;n y por 
+                                    sobre todo, la posibilidad de cumplir sue&ntilde;os.<br>
+Somos un equipo de personas dedicadas d&iacute;a a d&iacute;a a hacerte sonre&iacute;r y lograr que tus<br>
+                                    sue&ntilde;os se hagan realidad. Una compa&ntilde;&iacute;a de s&oacute;lida trayectoria y firme liderazgo, con una<br>
+                                    filosof&iacute;a de trabajo donde la evoluci&oacute;n es una de las premisas.<br>
+                                    Toda la organizaci&oacute;n est&aacute; puesta al servicio del Cliente porque vos sos el presente y el<br>
+                                    futuro de Carta, para nosotros no hay nada m&aacute;s importante que vos.</span></p></th>
+                                </tr>
+                            </table>                              <p>&nbsp;</p></td>
+                          </tr>
+                          <tr>
+                            <td align="center" id="bienvenida">&nbsp;</td>
+                          </tr>
                         </table></td>
                         <td width="1" height="1"></td>
                       </tr>

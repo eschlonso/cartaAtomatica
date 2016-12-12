@@ -3,7 +3,7 @@
 <html>
 <head>
 <title>Carta Automatica</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <style type="text/css">
 <!--
 body {
@@ -30,68 +30,17 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 //-->
 </script>
 <script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-<style type="text/css">
+<SCRIPT LANGUAGE="JavaScript">
 <!--
-.style1 {color: #FFFFFF}
-.txt_negro .txt_negro {
-	color: #666;
+function librerias()	{ 
+	var url="pop_librerias.htm";
+	var Wnd=window.open(url,"HI","toolbar=0,location=0,status=0,menubar=0,scrollbars=1,width=510,height=320");
+
 }
-.lal {
-	font-size: 10px;
-}
--->
-</style>
-<script type="text/javascript">
-
- 
-
-  var _gaq = _gaq || [];
-
-  _gaq.push(['_setAccount', 'UA-42658052-1']);
-
-  _gaq.push(['_setDomainName', 'cartaautomatica.com.ar']);
-
-  _gaq.push(['_trackPageview']);
-
- 
-
-  (function() {
-
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-
-  })();
-
- 
-
+//-->
 </script>
-<!-- google analytics code 02-06-2016 -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
- 
-  ga('create', 'UA-42658052-1', 'auto');
-  ga('send', 'pageview');
- 
-</script>
-<!-- end google analytics code -->
 </head>
-
 <body>
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WVX3DM"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WVX3DM');</script>
-<!-- End Google Tag Manager -->
 <table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
     <th valign="top" scope="col"> </th>
@@ -114,40 +63,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <td width="7" valign="top"></td>
                 <td width="555" valign="top"><table width="555" border="0" cellspacing="0" cellpadding="0">
                   <tr>
-                     
-                  </tr>
-                  <tr>
-                    <td valign="top"><table width="549" border="0" cellspacing="0" cellpadding="0">
-                      <tr> </tr>
-                      <tr>
-                        <td></td>
-                        <td></td>
-                      </tr>
-                      <tr>
-                            <td colspan="2" align="center"><img src="images/tit_promociones.jpg" width="548" height="110"></td>
-                          </tr>
-                      <tr>
-                        <td width="1" height="1"></td>
-                        <td width="547" valign="top"><table width="547" border="0" cellspacing="0" cellpadding="0">
-                          <tr>
-                            <td colspan="2" align="center"><img src="images/banner2-interior.jpg" border="0" style="display:block; border:none; padding:0;"></td>
-                          </tr>
-                          <tr>
-                            <td colspan="2" align="left" class="gris2" id="bienvenida2" style="padding-top:20px;">
-VIGENTE ENTRE EL 01/12/2016 Y 31/12/2016. SE PODRÁN REALIZAR EXTRACCIONES EN CUALQUIER CAJERO AUTOMÁTICO DE LA RED LINK O BANELCO. MÁXIMO DE EXTRACCIÓN DIARIA SUJETO AL LÍMITE DE ADELANTO OTORGADO. 
-
-                            </td>
-                          </tr>
-                          
-                        </table></td>
-                        <td width="1" height="1"></td>
-                      </tr>
+                    <td width="552"><table width="549" border="0" cellspacing="0" cellpadding="0">
                       <tr>
                         <td width="1" height="1" ></td>
-                        <td width="547" height="1" ></td>
+                        <td width="548" height="1" ></td>
+                        <td width="1" height="1" ></td>
+                        </tr>
+                      <tr>
                         <td width="1" height="1"></td>
-                      </tr>
-                    </table></td>
+                        <td width="548"><table width="548" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="534" height="120" align="center"><img src="images/titcomercios.jpg" width="548" height="110"></td>
+                            </tr>
+                          <tr>
+                            <td align="center"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td width="14" align="center" class="negro" >&nbsp;</td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td height="20" align="center" valign="bottom"><table width="530" border="0">
+                              <tr>
+                                <th scope="col"><a href="login_comercio.asp" target="_top"><img src="images/consultas_comercios.jpg" width="214" height="146"></a></th>
+                                <th width="10" scope="col"><img src="images/puntitos.jpg"></th>
+                                <th scope="col"><a href="centroatencion.asp" target="_top"><img src="images/centro_comercios.jpg" width="214" height="146"></a></th>
+                              </tr>
+                            </table></td>
+                          </tr>
+                          <tr></tr>
+                          </table></td>
+                        <td width="1" height="1"></td>
+                        </tr>
+                      <tr>
+                        <td width="1" height="44"></td>
+                        <td width="548" height="44"></td>
+                        <td width="1" height="44" ></td>
+                        </tr>
+                      </table></td>
                   </tr>
                 </table></td>
               </tr>
@@ -167,7 +120,7 @@ VIGENTE ENTRE EL 01/12/2016 Y 31/12/2016. SE PODRÁN REALIZAR EXTRACCIONES EN CU
         <tr>
           <td width="4%" height="10" align="center"><span class="estilo"><a href="http://www.iutopi.com" target="_blank" class="blanco" style="color: #666666">i</a></span></td>
           <td width="43%" align="right" style="color: #333333"><a href="#" class="blanco" style="color: #666" onMouseUp="MM_openBrWindow('acuerdo.htm','','scrollbars=yes,width=550,height=500')">Pol<span style="color: #666666"></span><span style="color: #999999"></span>&iacute;tica de Usuario</a></td>
-          <td width="53%" align="left" class="blanco-1" style="color: #666666">- <a href="sitemap.asp" class="blanco" style="color: #666666">Mapa del Sitio</a> <span class="blanco1">- Todos los derechos reservados &copy; Carta Autom&aacute;tica 2013</span></td>
+          <td width="53%" align="left" class="blanco-1" style="color: #666666">- <a href="sitemap.asp" class="blanco" style="color: #666666">Mapa del Sitio</a> <span class="blanco1">- Todos los derechos reservados &copy; Carta Autom&aacute;tica 2012</span></td>
         </tr>
       </table></td>
     </tr>
